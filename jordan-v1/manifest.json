@@ -4,7 +4,7 @@
   "model": "FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
   "style": "smooth connected natural American liturgical cadence",
   "version": "1.0.0",
-  "generated": "2026-09-03T08:22:38.656Z",
+  "generated": "2026-09-04T09:36:05.446Z",
   "fallback": "device",
   "reference_sha256": "5347fda83e421d77cda8b5f57b979ccde791cbf1fff21275072e42a11c60c6f2",
   "phrases": {
@@ -31891,11 +31891,47 @@
       "format": "opus",
       "text_sha256": "6c9b42b63db65fb319e5e23c68d875add0a9cd9d1af4b8794809899199d059ea",
       "priority": "frequent"
+    },
+    "and forgive us our trespasses, as we forgive those who trespass against us. and lead us not into temptation, but deliver us from evil. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f2baf058c1f53f61ae9d986f.opus",
+      "sha256": "7316a20ae393ed633860b228e51eb011623b0897e4758a96f69349d7e30ddf93",
+      "duration": 9.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f2baf058c1f53f61ae9d986ff78f39e5d3075cb849b57ade2c67ba0749885431",
+      "priority": "core"
+    },
+    "hail mary, full of grace, the lord is with thee. blessed art thou among women, and blessed is the fruit of thy womb, jesus. holy mary, mother of god, pray for us sinners, now and at the hour of our death. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9a18fd700522f18666df260e.opus",
+      "sha256": "b961127fe3899d2addfb52f7f21c819f89bbccbaf71bbe61ed08f1150c135357",
+      "duration": 17.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9a18fd700522f18666df260ec65eb2e7492fccc44dfee4740589a6200c6fa5ab",
+      "priority": "core"
+    },
+    "our father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done, on earth as it is in heaven. give us this day our daily bread.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e0f8e8c25675a874dbc459d8.opus",
+      "sha256": "cc8fb22505f6f5f7f92e661bc1bb9c7c9874ee2e66aa2d48f107c38cfcd05873",
+      "duration": 13.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e0f8e8c25675a874dbc459d8410b1def3d16dc3816bf1b0ba298259ebd76f0d3",
+      "priority": "core"
+    },
+    "our father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done, on earth as it is in heaven. give us this day our supersubstantial bread.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ae23fcee84236b5ab27cc66b.opus",
+      "sha256": "57fac6f021285812830353feee0852010455b073d049a3611bee9b92751dcae2",
+      "duration": 12.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ae23fcee84236b5ab27cc66b0e95f96157c30cd43acc21c949b200e93b28a268",
+      "priority": "core"
     }
   },
   "distribution": {
     "type": "github-pages",
     "baseUrl": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/",
-    "generatedAt": "2026-09-03T22:00:23.993Z"
+    "generatedAt": "2026-09-04T09:40:25.497Z"
   }
 }
