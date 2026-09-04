@@ -4,7 +4,7 @@
   "model": "FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
   "style": "smooth connected natural American liturgical cadence",
   "version": "1.0.0",
-  "generated": "2026-09-04T09:36:05.446Z",
+  "generated": "2026-09-04T13:23:14.050Z",
   "fallback": "device",
   "reference_sha256": "5347fda83e421d77cda8b5f57b979ccde791cbf1fff21275072e42a11c60c6f2",
   "phrases": {
@@ -31927,11 +31927,3152 @@
       "format": "opus",
       "text_sha256": "ae23fcee84236b5ab27cc66b0e95f96157c30cd43acc21c949b200e93b28a268",
       "priority": "core"
+    },
+    "thanks be to god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e4e83901cf0c590a79683c01.opus",
+      "sha256": "c17dc92eeb8de990eb26eca12036c89ed94e9240de8bd80a5c3bde3b31a69f82",
+      "duration": 1.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e4e83901cf0c590a79683c012ee38a341b3773a303b6bec2240958271389e7a7",
+      "priority": "core"
+    },
+    "praise to you, lord jesus christ.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/edfdc8d56d43b75ced8d25ca.opus",
+      "sha256": "4a660a884d4315dd6972a83b62dce60a28297b8d12f890e1c0ca2d57721cae30",
+      "duration": 2.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "edfdc8d56d43b75ced8d25caafd001de2592c1493a9627d9c1fe73c0a8dd16c6",
+      "priority": "core"
+    },
+    "he suffered under pontius pilate, was crucified, died, and was buried; he descended to the dead. on the third day he rose again; he ascended into heaven and is seated at the right hand of the father.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a1263ad29eba1370b6f7d891.opus",
+      "sha256": "7be6674c57bd9b8c4b1a84d94430d8a2e45a08ecf09429985be5e9608725bad7",
+      "duration": 13.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a1263ad29eba1370b6f7d891ef78763d1ff11d1f0eab782d7980e5e0a053fa80",
+      "priority": "core"
+    },
+    "he will come again to judge the living and the dead. i believe in the holy spirit, the holy catholic church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/502d26f13307d7d24adc8d42.opus",
+      "sha256": "abd5cee3b5967d56dcdd6c50a4869841c4daeaf5858b68c92382c013dee8bef8",
+      "duration": 15.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "502d26f13307d7d24adc8d42094865d2b07db3664195247358325b53152848d6",
+      "priority": "core"
+    },
+    "i believe in god, the father almighty, creator of heaven and earth. i believe in jesus christ, his only son, our lord. he was conceived by the holy spirit and born of the virgin mary.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c79c89ec18de350299f0316d.opus",
+      "sha256": "83770dee0206d2771f8b2a81df0f8786d9d4d50a90f86feea1b41112e4aed3f0",
+      "duration": 14.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c79c89ec18de350299f0316d2179911a2697e8be70437bae089b0ff9526389c6",
+      "priority": "core"
+    },
+    "i believe in god, the father almighty, creator of heaven and earth. i believe in jesus christ, his only son, our lord. he was conceived by the holy spirit and born of the virgin mary. he suffered under pontius pilate, was crucified, died, and was buried; he descended to the dead.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/47db3d10a47710260490d91b.opus",
+      "sha256": "277b87c90d7e4183b2610ad9c4243fd49718f05fc92cb067fa1e7f1724cbe5cd",
+      "duration": 20.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "47db3d10a47710260490d91bfc3183663f4219f8eec17c6b4c7b9b238c7eee53",
+      "priority": "core"
+    },
+    "on the third day he rose again; he ascended into heaven and is seated at the right hand of the father. he will come again to judge the living and the dead. i believe in the holy spirit, the holy catholic church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e6a09a16744a67c3704c9032.opus",
+      "sha256": "5a12da8dbb96987af0b90e56feaca63b4fa72abe5cdd1c0f35fd2363c347d96a",
+      "duration": 19.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e6a09a16744a67c3704c9032b28a8d3186ed437911c34fb5a50fb74fe9f1a0a0",
+      "priority": "core"
+    },
+    "✠ in the name of the father, and of the son, and of the holy spirit. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3cd085b938dac8e1bd2eb802.opus",
+      "sha256": "5bad51267013276341eb962bb0d3da9f2321d8ecaaec79507b770224af52b12b",
+      "duration": 4.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3cd085b938dac8e1bd2eb8023fdaa1baaed91ff0d4d33645ce3fb655c91a5c64",
+      "priority": "core"
+    },
+    "our father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done, on earth as it is in heaven. give us this day our daily bread. and forgive us our trespasses, as we forgive those who trespass against us. and lead us not into temptation, but deliver us from evil. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7c29e5edc85621708154134c.opus",
+      "sha256": "e3e05ff09433b18886114335c5f086d9e45ca97432575f54b8babeb6cee5d5d2",
+      "duration": 25.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7c29e5edc85621708154134c44d4afe12f66fad6134d8b903e453e40e28dd5c2",
+      "priority": "core"
+    },
+    "the word of the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/651a6acf505a9ac3b703047a.opus",
+      "sha256": "b22d0571b7f2e9dda2610580f124d9bdf7e53916da9f8894d054f0bea5d5ffed",
+      "duration": 1.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "651a6acf505a9ac3b703047a8755f3f098041a35c8e451b5b03e237e9f2f6958",
+      "priority": "daily"
+    },
+    "the gospel of the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f866507b4b7db781afcbe993.opus",
+      "sha256": "a927f8c40d176af8dac30b23a11e23f940525609b72341776e658ed9db7555e1",
+      "duration": 1.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f866507b4b7db781afcbe993cd4d66106c0b6c5bbde88c2e5a93cb768a1e33ec",
+      "priority": "daily"
+    },
+    "heal what is wounded, strengthen what is good, and send us in peace to serve your world; through jesus christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a30b5e9e1c947a763d8ff5de.opus",
+      "sha256": "8f21244bad512b62518622fd09aa050345cfa3a6a536dd0837e7236d54df4710",
+      "duration": 9.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a30b5e9e1c947a763d8ff5de2c830c502d5ea4593cd815e5fda336d3456f0b43",
+      "priority": "daily"
+    },
+    "receive, o lord, the gifts of bread and wine and the offering of your people;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7ada74d9a860b242cc85d7b0.opus",
+      "sha256": "3da964ca078a1a18048cefd22ee038b470f0adbcb5e230f25e596d7e68457ec4",
+      "duration": 5.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7ada74d9a860b242cc85d7b0fa410dea8f5a015ee8cd6d5d0f917c6163ffbe29",
+      "priority": "daily"
+    },
+    "through the same jesus christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/02d2522e512b2583962d44ba.opus",
+      "sha256": "f4cfe5689d6b5d0036764d7043d7dcb0929b219070371f3e232e6ed7ae2add1e",
+      "duration": 2.9665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "02d2522e512b2583962d44ba719e8be6f1bb4436fdbc5574fcec4f2a0447e950",
+      "priority": "daily"
+    },
+    "4 and eating together with them, he commanded them, that they should not depart from jerusalem, but should wait for the promise of the father, which you have heard (says he) by my mouth.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f119c451c2b9b9dbbfe99ded.opus",
+      "sha256": "c84a93b66a10d19f1e56979e762fa77a29df88394a26bfa4cd2eaf90e8d7f53c",
+      "duration": 12.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f119c451c2b9b9dbbfe99ded2bebb840c92a81b9865ba26e752aae6b4d1e9892",
+      "priority": "daily"
+    },
+    "10 and while they were beholding him going up to heaven, behold two men stood by them in white garments. 11 who also said: you men of galilee, why stand you looking up to heaven?": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/25d0f46db86e783cfd3f3c79.opus",
+      "sha256": "74be14449c31b91390a912b29da866ec6db1532eb5b6915eecc7f999691c9068",
+      "duration": 14.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "25d0f46db86e783cfd3f3c794504064bf9743794d2381aef397d0790716a9cec",
+      "priority": "daily"
+    },
+    "3 and there appeared to them parted tongues as it were of fire, and it sat upon every one of them:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/652d361351a1828eb0b8c09c.opus",
+      "sha256": "e3be1d324c04cb69b88da3cbcee3bd6d73501036e9f06e261f7c4b3c17b337e2",
+      "duration": 6.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "652d361351a1828eb0b8c09c70aec0c749ef51532ee0da8d008b197d4cd85c27",
+      "priority": "daily"
+    },
+    "4 and they were all filled with the holy spirit, and they began to speak with divers tongues, according as the holy spirit gave them to speak.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f3048b201c1e53b9ff55c049.opus",
+      "sha256": "80aabe489c4b82033546f49226ab3cd8add805d9fa103d62626e1a3d55fa651e",
+      "duration": 9.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f3048b201c1e53b9ff55c0496f84064b318e5e490d03ba19bd1cc806ba581b45",
+      "priority": "daily"
+    },
+    "5 for john indeed baptized with water, but you shall be baptized with the holy spirit, not many days hence. 6 they therefore who were come together, asked him, saying: lord, will you at this time restore again the kingdom to israel?": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b5c94c85d3e121f978815fe4.opus",
+      "sha256": "2be3c5ed863adf9c7dd070fdd5d9118ecd351c4648b2c180f1fa5012a2bec939",
+      "duration": 17.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b5c94c85d3e121f978815fe40552e3ceb8ed1a7bd9c836086a58536059511d56",
+      "priority": "daily"
+    },
+    "5 now there were dwelling at jerusalem, jews, devout men, out of every nation under heaven.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/53e598fbcd54bdcb8293b569.opus",
+      "sha256": "5265ab5201862db72668c0b4f99ff98efe062ae4952117c1c26bdca06c692b2a",
+      "duration": 6.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "53e598fbcd54bdcb8293b569b6ac60900925db28ffd93e6f4f73da131fad6723",
+      "priority": "daily"
+    },
+    "6 and when this was noised abroad, the multitude came together, and were confounded in mind, because that every man heard them speak in his own tongue. 7 and they were all amazed, and wondered, saying:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/00a7867336ceebd2bac5bc19.opus",
+      "sha256": "3a2ee1b385838b6a32e5b4e379eb9835264931260a8256a6f9966004caf5a131",
+      "duration": 16.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "00a7867336ceebd2bac5bc19280404606e5b54facc19bf980c60e3aa0b5ac724",
+      "priority": "daily"
+    },
+    "7 but he said to them: it is not for you to know the times or moments, which the father has put in his own power:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d4808e4779fb58ea5a9a38cd.opus",
+      "sha256": "f224d46d3b2cfb82b4bace190b04e1cf3abd9b201977f906f29fd80d34de2bd0",
+      "duration": 8.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d4808e4779fb58ea5a9a38cd449512fd71230d8b62efbc309da1ae9698f3ffee",
+      "priority": "daily"
+    },
+    "8 but you shall receive the power of the holy spirit coming upon you, and you shall be witnesses to me in jerusalem, and in all judea, and samaria, and even to the uttermost part of the earth.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/15d0a20805392904d1ec10dd.opus",
+      "sha256": "aeb268a542da46818584165f87711e971ac1876b1a915c5711062d40de6d6fff",
+      "duration": 13.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "15d0a20805392904d1ec10dd7b31e0c3f7073ef19356ead6ec5be63ac690bc8b",
+      "priority": "daily"
+    },
+    "9 and when he had said these things, while they looked on, he was raised up: and a cloud received him out of their sight.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/0693ffa58203e1343dd1e921.opus",
+      "sha256": "c5201e03dd91d43406a8bd670e27317b2413b934495c758d707fdb3151ff80b1",
+      "duration": 8.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "0693ffa58203e1343dd1e9214120245933067eb888a1dad4b4b16744ba15d458",
+      "priority": "daily"
+    },
+    "behold, are not all these, that speak, galileans? 8 and how have we heard, every man our own tongue in which we were born?": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5fd7e7a7a61c99d3bf033dfc.opus",
+      "sha256": "ddfaec7c8a5a64001bfec575b16512420e5d52cbd9014606b64c17eb61c819f8",
+      "duration": 10.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5fd7e7a7a61c99d3bf033dfc5a0799e46d74d9dcf6f2ae03ecb45255feeafecf",
+      "priority": "daily"
+    },
+    "1 but the souls of the just are in the hand of god, and the torment of death shall not touch them. 2 in the sight of the unwise they seemed to die: and their departure was taken for misery:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f7ad64137576561df10d24fa.opus",
+      "sha256": "bb0e8e7547a9f532169e934897b7da7abeb4d01fe05cf876d877e65e28673671",
+      "duration": 12.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f7ad64137576561df10d24fa6468b5ea6b3bac6c7c43dd4234408d13c5b04f9b",
+      "priority": "daily"
+    },
+    "11 for he that rejects wisdom, and discipline, is unhappy: and their hope is vain, and their labours without fruit, and their works unprofitable. 12 their wives are foolish, and their children wicked. 13 their offspring is cursed:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/82e36ebfd1046a4f06ad525f.opus",
+      "sha256": "834f54ff661dc5619ce4cde1ee9ff66ff09765957c502c3e9ee3ed7043b0b1c7",
+      "duration": 18.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "82e36ebfd1046a4f06ad525fd042838ecd7f3877c656399a02f113ed0988c95c",
+      "priority": "daily"
+    },
+    "14 and the eunuch, that has not wrought iniquity with his hands, nor thought wicked things against god: for the precious gift of faith shall be given to him, and a most acceptable lot in the temple of god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2c4303154d7fd4ebcfa99db5.opus",
+      "sha256": "8826a7c0963133b2b6a55ccec024ce9fcf0d49dc074f6493804a208680b6f60b",
+      "duration": 13.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2c4303154d7fd4ebcfa99db52d01be4b00d57e8979332091a37c5e301088fc43",
+      "priority": "daily"
+    },
+    "15 for the fruit of good labours is glorious, and the root of wisdom never fails. 16 but the children of adulterers shall not come to perfection, and the seed of the unlawful bed shall be rooted out.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5681fe66cd7af4699adb0c51.opus",
+      "sha256": "75c735766b618b2002c4c12d42cf747e68eb3786d80e393bf362e5db4946c358",
+      "duration": 15.6465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5681fe66cd7af4699adb0c51f0437ccf4fa7336a964be691d110395f1f67e85a",
+      "priority": "daily"
+    },
+    "17 and if they live long, they shall be nothing regarded, and their last old age shall be without honour. 18 and if they die quickly, they shall have no hope, nor speech of comfort in the day of trial.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/72ccb035801760507b7d283e.opus",
+      "sha256": "ae986db17c8d828140ac39c48d700a0643147d7bc5f68518ef51954e04545ae6",
+      "duration": 15.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "72ccb035801760507b7d283ef32db08a4632ccb2af99262794c8d232226bad05",
+      "priority": "daily"
+    },
+    "19 for the expectation of the creature waits for the revelation of the sons of god. 20 for the creature was made subject to vanity, not willingly, but by reason of him that made it subject, in hope:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c2dabdd3385c96692ffe54a4.opus",
+      "sha256": "d4d9577e80d8ba13abd3259d6fe2cca6dc5a9a28426e960fb78a63c0b57b0412",
+      "duration": 15.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c2dabdd3385c96692ffe54a47c8c6278f614ac11d1cfe85136723f5cdb0e78f0",
+      "priority": "daily"
+    },
+    "3 and their going away from us, for utter destruction: but they are in peace. 4 and though in the sight of men they suffered torments, their hope is full of immortality.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ebf8be742b803213e93dc84b.opus",
+      "sha256": "c5633bd376aba21cce0912954de1c9e33b0d5a52e2cc15fd783ef7f7aa2e433b",
+      "duration": 13.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ebf8be742b803213e93dc84b94ba49db281e37109c686a50a544b84f0cb0451a",
+      "priority": "daily"
+    },
+    "3 know you not that all we, who are baptized in christ jesus, are baptized in his death? 4 for we are buried together with him by baptism into death;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/03c77f74a35d5146de9609cc.opus",
+      "sha256": "36ab49fd1298ac546d830e398baa2c0e1ecdb198539bdccc6c1fa7210b57095d",
+      "duration": 12.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "03c77f74a35d5146de9609cc8c3f75aabe574b4734b97a1e2036a0670613e22a",
+      "priority": "daily"
+    },
+    "5 afflicted in few things, in many they shall be well rewarded: because god has tried them, and found them worthy of himself.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/97d7523cc7c59a8674fd8070.opus",
+      "sha256": "afd669451d2dd53aebea37d5e1305c1031ed60be854c6de4fbc3a37023a3d1fc",
+      "duration": 7.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "97d7523cc7c59a8674fd8070b15d602a8cd0187b3908b246ca9c58a82a3e6ffe",
+      "priority": "daily"
+    },
+    "6 as gold in the furnace he has proved them, and as a victim of a burnt offering he has received them, and in time there shall be respect had to them.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5d25911c6c58142441c259b8.opus",
+      "sha256": "5f0f1bd1bf13b558e53de1d19da271081c2b1d012fda713eeaa1a21ca45da1fa",
+      "duration": 10.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5d25911c6c58142441c259b82dfbbd62d8716695c6907e862c5c5e278e5bf16f",
+      "priority": "daily"
+    },
+    "7 the just shall shine, and shall run to and fro like sparks among the reeds. 8 they shall judge nations, and rule over people, and their lord shall reign for ever. 9 they that trust in him, shall understand the truth:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7d628b94df677a6631541f61.opus",
+      "sha256": "2b53a4a39e61a8f0920a1b257d721a3ce5f154e679f37af3b88afc9c93c18615",
+      "duration": 16.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7d628b94df677a6631541f61c982eebe30ff0c4abc0e3536859e90b8df6360bb",
+      "priority": "daily"
+    },
+    "and they that are faithful in love shall rest in him: for grace and peace is to his elect. 10 but the wicked shall be punished according to their own devices: who have neglected the just, and have revolted from the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9e16a7d3ac6ce01a1594780d.opus",
+      "sha256": "4f7e0f8c581ec60a92818147a834f7a57ca6f8fb747937ac7acb7edd1ffbf654",
+      "duration": 15.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9e16a7d3ac6ce01a1594780db1d574b712e0e9fd706338778c4088bab5a23f28",
+      "priority": "daily"
+    },
+    "for happy is the barren: and the undefiled, that has not known bed in sin: she shall have fruit in the visitation of holy souls.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7019c30455f0df749b7248f5.opus",
+      "sha256": "1e6747e75dc477bebef7f0b146dc512c053598bd880f008cb575912fc2ec365b",
+      "duration": 10.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7019c30455f0df749b7248f507f65da430b7bb0bd4860cc28ff74607238908e6",
+      "priority": "daily"
+    },
+    ") 16 men, brothers, the scripture must needs be fulfilled, which the holy spirit spoke before by the mouth of david concerning judas, who was the leader of them that apprehended jesus:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b0c523e9cffddefb4c04bd56.opus",
+      "sha256": "7b12083d3a0591af56924bd103bee327aa979c0244356b1221df8fb4e39c8a2f",
+      "duration": 12.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b0c523e9cffddefb4c04bd56d6dd166afb852752d40d46b39e8bad85ed9c042a",
+      "priority": "daily"
+    },
+    "1 being justified therefore by faith, let us have peace with god, through our lord jesus christ:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/057635691da7c6ba4d883808.opus",
+      "sha256": "4a404821e20a9038b4923513b444ed43d140f711874dcd2ac5d3370aaa68cd6d",
+      "duration": 6.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "057635691da7c6ba4d8838082821992d1be78970511e6a299fe191fd0d8b48a7",
+      "priority": "daily"
+    },
+    "1 what shall we say, then? shall we continue in sin, that grace may abound? 2 god forbid. for we that are dead to sin, how shall we live any longer in it?": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/857330b51bafa500baec073e.opus",
+      "sha256": "0697d3cf3e831a7f3fb1072aab95afda10322539cfab8bf3f4be45808386b37c",
+      "duration": 13.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "857330b51bafa500baec073e5e8bf53ad0934086947a69ceb18ec5d5c8629e8f",
+      "priority": "daily"
+    },
+    "10 be it known to you all, and to all the people of israel, that by the name of our lord jesus christ of nazareth, whom you crucified, whom god has raised from the dead, even by him this man stands here before you whole.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ed667411da375a2aca299625.opus",
+      "sha256": "8c17ed0c8271a789dbfad0bc5dbc62364d0338be20ef02b909c3b15148c2f70a",
+      "duration": 15.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ed667411da375a2aca2996255bf63466c84220515cb5e9a7ead37bb4e3dbf25c",
+      "priority": "daily"
+    },
+    "10 that in the name of jesus every knee should bow, of those that are in heaven, on earth, and under the earth:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f5ee41966c9da26f54136d13.opus",
+      "sha256": "e9488d5611795dc5d515a4ea7ec329fafc7a38f80798080ec22a95ac44967176",
+      "duration": 9.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f5ee41966c9da26f54136d13e40df6ef8b9ccf0a481bf8b9125cb9004e7f05ad",
+      "priority": "daily"
+    },
+    "11 and that every tongue should confess that the lord jesus christ is in the glory of god the father.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3b93cf8cc2a3ea29dbc1c6b5.opus",
+      "sha256": "a7155742c791af62df58ad423a1935e10c9854c52ef7da85ad353d3410de3e1f",
+      "duration": 6.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3b93cf8cc2a3ea29dbc1c6b598229afff588e2e852de701bc88bc306c17ea59c",
+      "priority": "daily"
+    },
+    "11 this is the stone which was rejected by you the builders, which is become the head of the corner. 12 neither is there salvation in any other.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/16717c54818f4979e31d547e.opus",
+      "sha256": "d974b89bf479651cc401c58e913e1f5a2baa126723bf4395bfb5389f061dcb2a",
+      "duration": 9.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "16717c54818f4979e31d547e73a7c43ec130be1ed36150202d28608cc8cb3dab",
+      "priority": "daily"
+    },
+    "12 let no sin therefore reign in your mortal body, so as to obey the lusts of it. 13 neither yield you your members as instruments of iniquity to sin;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/589b868908d647a45e8021d5.opus",
+      "sha256": "6fb6611f638a4827e0cc452752eed4fb4e8c551a366ab8a5b3b867a5b79b1958",
+      "duration": 12.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "589b868908d647a45e8021d562d5aef2e8ba910e8ac314a79982df6fe7d0d48d",
+      "priority": "daily"
+    },
+    "13 the god of abraham, and the god of isaac, and the god of jacob, the god of our fathers, has glorified his son jesus, whom you indeed delivered up and denied before the face of pilate, when he judged he should be released.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/4a4105a147a964566925d7ef.opus",
+      "sha256": "759cc1dd4b7c008963c9de9f851943c44fca48eab328994d85104b020ed8f1a2",
+      "duration": 19.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "4a4105a147a964566925d7efb885cf08d87392a9f0d4eb6decfd7292db2323b2",
+      "priority": "daily"
+    },
+    "14 but death reigned from adam to moses, even over them also who have not sinned after the similitude of the transgression of adam, who is a figure of him who was to come.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9c15278501b767730ae3f4ab.opus",
+      "sha256": "3301c3d9a60787eafc632bec1176263e68e1d15d43ac85e9505f3050c8d84f89",
+      "duration": 12.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9c15278501b767730ae3f4abaf28e49f775dcc919fb9921dcaae925ec1b607c7",
+      "priority": "daily"
+    },
+    "14 but you denied the holy one and the just, and desired a murderer to be granted to you. 15 but the author of life you killed, whom god has raised from the dead, of which we are witnesses.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/69e1a7564583064c48dbf082.opus",
+      "sha256": "b925602a8651016eb1e5a69c8d190d24a76dabe2732eadc02d8d97467aecd512",
+      "duration": 13.6465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "69e1a7564583064c48dbf082c11e1ba81d1cc458a42e9a69c46a04cabf136f40",
+      "priority": "daily"
+    },
+    "15 but not as the offence, so also the gift. for if by the offence of one, many died; much more the grace of god, and the gift, by the grace of one man, jesus christ, has abounded to many.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/62fa8d8e1acbd0cd6e2904c2.opus",
+      "sha256": "1b2abcf170297344dfe321c53b7b30d006a99e6daa770e8b4d120b26d49ac9fa",
+      "duration": 15.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "62fa8d8e1acbd0cd6e2904c240f8fabf4a00a6a013f197f3f5cfea1978495690",
+      "priority": "daily"
+    },
+    "15 insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that when peter came, his shadow at the least, might overshadow any of them, and they might be delivered from their infirmities.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8ce1f68567cbdc5ad5b96c63.opus",
+      "sha256": "d2432e2d92b878ee2453c31545e4c10e47582cdcdf8ec55f579c5f5c79e81c57",
+      "duration": 13.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8ce1f68567cbdc5ad5b96c63b40fb8587ae54a0ec20169b0975bea04ef9dcf84",
+      "priority": "daily"
+    },
+    "15 what then? shall we sin, because we are not under the law, but under grace? god forbid.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/fac1b76973006e8c9aa60b8a.opus",
+      "sha256": "a74b780450272f3cf7f8dbf3dced680490b8fefdf1bc90ebbd50cf7095337722",
+      "duration": 7.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "fac1b76973006e8c9aa60b8a38471e67de012d06e211314fdf241774a66f9997",
+      "priority": "daily"
+    },
+    "16 know you not, that to whom you yield yourselves servants to obey, his servants you are whom you obey, whether it be of sin to death, or of obedience to justice.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f9c8d27c4809c1a1eff136e2.opus",
+      "sha256": "9713dd3e98963af5e1f57be4ebaa75a6b363bbf3a487e570181436eba80bd331",
+      "duration": 12.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f9c8d27c4809c1a1eff136e2a46d1460e2c251067d0baff17f63f3ca3700f24e",
+      "priority": "daily"
+    },
+    "17 and now, brothers, i know that you did it through ignorance, as did also your rulers. 18 but those things which god before had showed by the mouth of all the prophets, that his christ should suffer, he has so fulfilled.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/1e8bce4f2fe1e081ae2e13b1.opus",
+      "sha256": "b1f24944fa08dacaac5f0afd3b44abe22fd2cc97cc9fbb58410c1f77c9309bae",
+      "duration": 20.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "1e8bce4f2fe1e081ae2e13b1f05269b7b772577fa1ef6701b714d285d27967e5",
+      "priority": "daily"
+    },
+    "17 but thanks be to god, that you were the servants of sin, but have obeyed from the heart, to that form of doctrine, into which you have been delivered.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/99d9b355ef1563415358fe2e.opus",
+      "sha256": "dab3660ef87032478437e99cbb1addaff23ee65428de92401e0cd1b83e471cc6",
+      "duration": 11.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "99d9b355ef1563415358fe2e9d7000cf645231b6f5b39daf4fe30b230b9a9a2c",
+      "priority": "daily"
+    },
+    "17 let us see then if his words be true, and let us prove what shall happen to him, and we shall know what his end shall be.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/705de2a6522e7620576ae154.opus",
+      "sha256": "b008c04f79839b1e736819dab6db9648b1793d427aa9ccffb0f02c89a7573b1a",
+      "duration": 11.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "705de2a6522e7620576ae15420768c7d278485671199682e39da491dbd259fdb",
+      "priority": "daily"
+    },
+    "18 being then freed from sin, we have been made servants of justice. 19 i speak an human thing, because of the infirmity of your flesh. for as you have yielded your members to serve uncleanness and iniquity, to iniquity;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e85e69323bcd444281fa48fd.opus",
+      "sha256": "8e131fd2209099f24d8a878a8f12ac529443665b1b092c2f592ea549142d7a8a",
+      "duration": 17.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e85e69323bcd444281fa48fd31d192de766bec8f159c443beee07dd78231e251",
+      "priority": "daily"
+    },
+    "18 for if he be the true son of god, he will defend him, and will deliver him from the hands of his enemies.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/61feb3552f2afbcb39e1aa73.opus",
+      "sha256": "0d29b2fde56bbbed9ad544b166bf51272a58fa3e27677815e708e8984f06250b",
+      "duration": 7.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "61feb3552f2afbcb39e1aa73ae8e67aa0a0d02acc1c266561973fbd09280a803",
+      "priority": "daily"
+    },
+    "19 be penitent, therefore, and be converted, that your sins may be blotted out.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/4e9e994645526e9b200b9843.opus",
+      "sha256": "314ffaef3e41bec74090d865c86d1267e58252863cf8883066b75a4d1f46efe3",
+      "duration": 5.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "4e9e994645526e9b200b9843daef294dc39e7e607b12557899df76d17461533f",
+      "priority": "daily"
+    },
+    "✠ a continuation of the holy gospel according to n.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/32639fb92021b6328b1dd805.opus",
+      "sha256": "ea490d11ee8f8fe4bdb648f9b87eaaff3524127c93506658512d237788d7293e",
+      "duration": 3.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "32639fb92021b6328b1dd8051030983f4ea6c9c52b494661f16d7146605d881b",
+      "priority": "daily-stable"
+    },
+    "✠ a reading from the holy gospel according to n.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7d26356e14e86d5633048b69.opus",
+      "sha256": "da4dda4aa2d94da1d4ecc48c31aca54bcfb5b5dbb6f5e84e641cface3068c4fd",
+      "duration": 4.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7d26356e14e86d5633048b6933c3cb483ff0af824fa7574638ae32923fd6a30c",
+      "priority": "daily-stable"
+    },
+    "✠ in the name of the father, and of the son, and of the holy spirit.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/4d7d17a822ece3858460ab6e.opus",
+      "sha256": "0aca120abd32d2318fad879d18d7a016a624aec3e078cbecb781916c61c953a1",
+      "duration": 4.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "4d7d17a822ece3858460ab6e4131269ddfe555f5a503ee9f6c7decb92d4b0151",
+      "priority": "daily-stable"
+    },
+    "✠ the beginning of the holy gospel according to john.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7cc0aefa3e707492ccb4ccbe.opus",
+      "sha256": "d4f3adf144b37029033e68528b5d972cdb6847d23060c7e362e1fe7418fbdb23",
+      "duration": 2.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7cc0aefa3e707492ccb4ccbe08be0c6307c03bf8f662b0e0940390a79060a925",
+      "priority": "daily-stable"
+    },
+    "a christian ending to our life, painless, blameless, and peaceful, and a good account before the judgment seat of christ, let us ask.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/44d046a2cff0e7569f40eee2.opus",
+      "sha256": "46fd59f8b953ce6a4b5ecb68a3df106a1482cc276cea45d9c78e2af66ba88ec5",
+      "duration": 9.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "44d046a2cff0e7569f40eee2fff16ee4588b7502cefb3e15c8454d2fd08518db",
+      "priority": "daily-stable"
+    },
+    "a concise prayer suitable for simpler celebrations and weekdays.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2767e0b80b3995484d287b72.opus",
+      "sha256": "b5b3ffa1313b3b0799ad080e164a487c4a28d4b22a11b7382d9787ceac20b43b",
+      "duration": 3.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2767e0b80b3995484d287b72aff8030d86c973f2747b907dca4fcd175037dd5d",
+      "priority": "daily-stable"
+    },
+    "a mercy of peace, a sacrifice of praise.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/0a668fe09236cab7a6e5ff10.opus",
+      "sha256": "8ebdc177f8de1a09ca9fece25d48ee3fcc5b3b3e703f411e05d279af92533490",
+      "duration": 3.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "0a668fe09236cab7a6e5ff10546ed2d1b38f999de82eb8b3371dcb4b307f0086",
+      "priority": "daily-stable"
+    },
+    "a solemn prayer emphasizing the church's self-offering in christ.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/dbdd5865a6c91016dc14ae9b.opus",
+      "sha256": "1dff393e9f63af3143dde9d1cb19c543a21d9a02435c384e80d65bc15bc72a13",
+      "duration": 3.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "dbdd5865a6c91016dc14ae9ba821239f28750c4f1e89a7de2eca337151cb7f1c",
+      "priority": "daily-stable"
+    },
+    "accept, o lord, this offering of our service and of your whole family. order our days in your peace, rescue us from every destructive power, and number us among those whom you call into the fullness of life.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f94b88bb37e75510ec900852.opus",
+      "sha256": "c59d26a9313a61f395b4b27508aeaddd1adae3656525d526863133148de8c85a",
+      "duration": 13.9665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f94b88bb37e75510ec9008529d1a8ad8e74e16fd2b38153afabf81513943350f",
+      "priority": "daily-stable"
+    },
+    "again we offer to you this reasonable and bloodless worship, and we call upon you, father of our lord jesus christ: send down your holy spirit upon us and upon these gifts here set forth.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/1c430e37e894d14d12fe4aee.opus",
+      "sha256": "15e863254b56b8b5f42fae9ed69c5f74819044d16d575d30950ee4dc4658c978",
+      "duration": 13.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "1c430e37e894d14d12fe4aeea50095bcfbebd35041029e610be91afde66f317f",
+      "priority": "daily-stable"
+    },
+    "all things that grow on the earth, bless the lord. seas and rivers, bless the lord; creatures of the waters, bless the lord. birds of the air, bless the lord; beasts and cattle, bless the lord. children of humanity, bless the lord;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f04f846d76c27ff8f556e532.opus",
+      "sha256": "9052eb812fdf2461c1f6aff7719400ab9a28b3fcee45664719a06bfaf0cea5aa",
+      "duration": 18.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f04f846d76c27ff8f556e53233d63cd2e8ef9f733557e4bb10cc3978e1c261c8",
+      "priority": "daily-stable"
+    },
+    "alleluia, alleluia, alleluia.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/6ad4cd86216cd1efa849eb2e.opus",
+      "sha256": "239f0d12c0eb5ae7dac29684be1be27d69d72df3a82b680ac318e2b6cd1bcb22",
+      "duration": 3.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "6ad4cd86216cd1efa849eb2e85979b85d8eb6030c20e46c83a2b617ed727f640",
+      "priority": "daily-stable"
+    },
+    "an angel of peace, a faithful guide and guardian of our souls and bodies, let us ask of the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/66e103be77fae11175f5e919.opus",
+      "sha256": "3d6a42d6ea2822de63baaf0c1ed549ede9434f4a803750d465afb95af8f4bede",
+      "duration": 6.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "66e103be77fae11175f5e919ddfe5987aa819ba3347f1814d9669cafe614d201",
+      "priority": "daily-stable"
+    },
+    "and a light to my paths.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b261a17cb0c98da8e9688e79.opus",
+      "sha256": "42667db35af082be0cc8fb0d2bd11305693a9ebaa125221c6fdccd3629720946",
+      "duration": 1.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b261a17cb0c98da8e9688e7970c4be87dcd0ef10edd3487689c5eff4977777a5",
+      "priority": "daily-stable"
+    },
+    "and all your saints, grant that by their prayers we may be strengthened in the fellowship of your church.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f202ff025dc685c39d2d2c34.opus",
+      "sha256": "a58115869a7a3ebf1d3f4eeaa56441d636ff92c2281e3e7b248cf883c6cea4b2",
+      "duration": 6.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f202ff025dc685c39d2d2c34ebd8d65679c69314f913478cdc7d85089f0eea2b",
+      "priority": "daily-stable"
+    },
+    "and by the intercession of blessed mary ever-virgin and all your saints, graciously grant peace in our days, that by the help of your mercy we may be always free from sin and safe from every disturbance.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7d9dfb4aadfc1f639b04e99c.opus",
+      "sha256": "215afc5fb4241f11e0fa364b3900bc736033ce9d9b118b72ef69f97c945d3874",
+      "duration": 15.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7d9dfb4aadfc1f639b04e99c8352cde3c31016b197eb7cbfe05f809bc9819f9f",
+      "priority": "daily-stable"
+    },
+    "and entrust every soul to the righteous judgment and inexhaustible mercy revealed in your son.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a73c330ede0b99112bac9f3b.opus",
+      "sha256": "55b42fea70b71c7919e2bd5e0059d5066e0b5b149ec01269e5f0faabb9a12468",
+      "duration": 5.9665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a73c330ede0b99112bac9f3b2d9bf01ad2cc638a310eeb11592e32c6051a9c3d",
+      "priority": "daily-stable"
+    },
+    "and for all faithful christians, living and departed, that it may avail for our salvation and theirs unto everlasting life. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3fda5b69dee701a142a3c2a1.opus",
+      "sha256": "5f716e917c05bef4ee584015b5c3be952627a447ec5036e9a4efebcbb501bb70",
+      "duration": 8.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3fda5b69dee701a142a3c2a12234a7d9b0b8e4552f28f73d55ae26c62218c728",
+      "priority": "daily-stable"
+    },
+    "and grant us with one mouth and one heart to glorify and hymn your all-honourable and majestic name, of the father, and of the son, and of the holy spirit, now and ever and unto ages of ages.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/77dfc207ff90bde5f9eeaff6.opus",
+      "sha256": "adb1577f4d2484cf6c15972a857094a8500669ade2752103239c7f7325a13791",
+      "duration": 15.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "77dfc207ff90bde5f9eeaff6633d49c1cae2f017ec32cdd5903b63b873487e7b",
+      "priority": "daily-stable"
+    },
+    "and grant us your salvation.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/338dc6db07a605fb92412ca5.opus",
+      "sha256": "5ad64ea2c1638f4026f79c603a8fb48c9eec285a7cda148fa93bffbb9b427cd4",
+      "duration": 1.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "338dc6db07a605fb92412ca5688b73d1b11a9e14e80ddb4162cd3795d0eac82d",
+      "priority": "daily-stable"
+    },
+    "and holy is his name. his mercy is from generation to generation; upon those who fear him. he has shown strength with his arm; he has scattered the proud in the thought of their heart.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/64b849f96d2ad91b454c7cd0.opus",
+      "sha256": "f8a8039992cd45a788c9cc8f9c56fe73fcdaa95a147dab8223a9d505590920ff",
+      "duration": 14.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "64b849f96d2ad91b454c7cd02aaa72f5124ee1793f83795e88d1a4aee49c847d",
+      "priority": "daily-stable"
+    },
+    "and let light perpetual shine upon them.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d3f5725288ea9720ac8fa15d.opus",
+      "sha256": "6c42872894796fb5d4789ef947a09d5d19380f2f5ce002e68578ee4b18eeb386",
+      "duration": 2.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d3f5725288ea9720ac8fa15d2ac4e359a601e7d42d00701c81b85acfd96a551f",
+      "priority": "daily-stable"
+    },
+    "and let the light of christ shine through all that we do; through the same jesus christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d83e5c786055a340f967d2bf.opus",
+      "sha256": "7718a0616667d4ad037c3eaba26821a6d92bc2432b616c9cfa04201dd2e1231f",
+      "duration": 6.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d83e5c786055a340f967d2bfd258f1f388f11b06ac13f60bad4c8a7485f93cee",
+      "priority": "daily-stable"
+    },
+    "and let your people sing with joy.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7ef46d9d23709b69ed4048f8.opus",
+      "sha256": "de1a018b1b18bb4fe0c446403f6618a9d706ec20b5d9165482887b715912b1c3",
+      "duration": 1.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7ef46d9d23709b69ed4048f89fe7c031a3c2bff37314c6614fc6d2367042dd32",
+      "priority": "daily-stable"
+    },
+    "and lifting his eyes to heaven to you, god his almighty father, giving you thanks, he blessed it, broke it, and gave it to his disciples, saying: take, eat: this is my body, which is given for you.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/95aae6f234c583c0c9f53c35.opus",
+      "sha256": "90638cc52204f51645d4e8f6362c0c93d7b0a3f1123acc21dc2928df95e6916f",
+      "duration": 15.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "95aae6f234c583c0c9f53c3503056563b406990a06b74e7e7382c81c7280d8e1",
+      "priority": "daily-stable"
+    },
+    "and make us instruments of reconciliation.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5aa80df3ac605bc6f7650099.opus",
+      "sha256": "ee2de398d430743f0c5cc8427ce6bbc2c6b4db7f2c7d7149e55a73327f0426a1",
+      "duration": 2.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5aa80df3ac605bc6f76500992a6435488e03a8f20273279a6ce6a6ef01bee3d0",
+      "priority": "daily-stable"
+    },
+    "and make us worthy, o master, with boldness and without condemnation to dare to call upon you, the god of heaven, as father, and to say:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b0efa7cf1edc2effefc2318e.opus",
+      "sha256": "3c4465db59bcc2d68e7a4cd34ae132a69200e374e23c2d76bcebba3073cc9703",
+      "duration": 9.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b0efa7cf1edc2effefc2318e660785ff685f2008d1a496bf32306b3e04c075b9",
+      "priority": "daily-stable"
+    },
+    "and on the third day he rose again according to the scriptures; and ascended into heaven, and is seated at the right hand of the father; and he shall come again with glory to judge the living and the dead;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/1339d376f9d7aec66ea72810.opus",
+      "sha256": "fb5fe8a97228b31e7dabf512cd06a90f23afc7466a0e024fa3a4935ff976a4dd",
+      "duration": 10.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "1339d376f9d7aec66ea7281060a5bc0dee69711d07c6d6212e9539d3e73103ea",
+      "priority": "daily-stable"
+    },
+    "and our mouth shall proclaim your praise.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9ef46111f689a4109b5ff511.opus",
+      "sha256": "2bacdf67623cbe64688c173ebce74e1a09adfd12cf87246ee465250a0f32d291",
+      "duration": 3.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9ef46111f689a4109b5ff51108947ac1381fa8af77c95d66c28b55399610dddd",
+      "priority": "daily-stable"
+    },
+    "and sustain us with your holy spirit.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/42f6c9f3708d905065bd5ad3.opus",
+      "sha256": "43ee58e9dcb29b2852d91e61ea8940c85ae93b48d6395f5b4339d53ba5769f23",
+      "duration": 2.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "42f6c9f3708d905065bd5ad334908b60066e63f72e72ce45acae5b16df2fc06b",
+      "priority": "daily-stable"
+    },
+    "and when he had given thanks and blessed it, he broke it and gave it to his holy disciples and apostles, saying: take, eat: this is my body, which is given for you; do this in remembrance of me.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d86e725d5b8621f47fde3a9c.opus",
+      "sha256": "e898cc415435f4b90356c41b1b4a6de15c67560068106b30022751188c224135",
+      "duration": 12.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d86e725d5b8621f47fde3a9ce551eb9c8484bcf3f89e43f59d18026885b858c1",
+      "priority": "daily-stable"
+    },
+    "as our hope is in you.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2ae13c08b7baae488bccd996.opus",
+      "sha256": "92bef1af2255fcc67c7d8c5f2bbc3725be9c58b7dcafffe681ed8a5f7e28e0e5",
+      "duration": 1.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2ae13c08b7baae488bccd9969deadcd50901773580f4ba1e8cc64cbd447af4a4",
+      "priority": "daily-stable"
+    },
+    "as we have hoped in you. in you, o lord, have i trusted; let me never be put to shame.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5140c3d77a036cf085e3eef2.opus",
+      "sha256": "4fa82851cdcfbf6a3d009b4ddc5657fd5da90929b96d015d8b1a258492e8cd1e",
+      "duration": 7.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5140c3d77a036cf085e3eef271ea18081d4fa8a9576cf471a9decbd8a2fb51ba",
+      "priority": "daily-stable"
+    },
+    "behold the lamb of god; behold him who takes away the sins of the world.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/db506894ddfed697a55755da.opus",
+      "sha256": "6e32a562e4b813ac87a7ce26a2eb146f9bc14770b8effc9d8ad17569d1eb1bfb",
+      "duration": 5.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "db506894ddfed697a55755dac48b639b86a082cb2621f88f50a2058e408df907",
+      "priority": "daily-stable"
+    },
+    "behold the lamb of god; behold him who takes away the sins of the world. blessed are those called to the supper of the lamb.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b36e37b56d402711e20e9536.opus",
+      "sha256": "6c008bde1bd15cc1753ec0b2fa433a42d4c4904f64da4b56bfd6e668d60ecd02",
+      "duration": 9.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b36e37b56d402711e20e953653298c03d7549b4aa16ff29c2fc89c1293c984f2",
+      "priority": "daily-stable"
+    },
+    "being mindful of his mercy, as he spoke to our fathers,; to abraham and his seed for ever.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5381d350d95e588e1ba3c27f.opus",
+      "sha256": "29414fd51966324d4cbcd2408b724e1c0ff7271e7298d401ea6e119428720a55",
+      "duration": 6.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5381d350d95e588e1ba3c27f8539b777c93ca42624e88d5436d837408ac06378",
+      "priority": "daily-stable"
+    },
+    "bless the lord, all works of the lord; praise and exalt him above all for ever. angels of the lord, bless the lord; heavens, bless the lord. sun and moon, bless the lord; stars of heaven, bless the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/23c45dbdb8204f0b58ae87de.opus",
+      "sha256": "85ca3ce1d6ff182f7a7e5d99600a7876afb4869e3f52740aa548c943de772362",
+      "duration": 16.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "23c45dbdb8204f0b58ae87de47920656b167d7398d784769eefe7ea0dde78854",
+      "priority": "daily-stable"
+    },
+    "bless, master.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ed9cb11f6f59f0a5fb751731.opus",
+      "sha256": "4171c6ac0bf1e13b350397936c71dba3ea82eda0da79ceeef302b8fdc462a9a3",
+      "duration": 0.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ed9cb11f6f59f0a5fb75173106ef727f75c373a8aff13e71a2691f54a778a28d",
+      "priority": "daily-stable"
+    },
+    "blessed are you, lord god of all creation; through your goodness we have this bread to offer, fruit of the earth and work of human hands. receive it with the life and labour of your people, that it may become for us the bread of life.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/20ea2ecb24ebbc75ecd5431a.opus",
+      "sha256": "f67fd507f63368d5a2e2b91cd10c4b70c4346188e2a535318750e89f45e1799a",
+      "duration": 14.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "20ea2ecb24ebbc75ecd5431a9f4da1fb1351b99263cb9742e71df973dc0e2d74",
+      "priority": "daily-stable"
+    },
+    "blessed are you, lord god of all creation; through your goodness we have this wine to offer, fruit of the vine and work of human hands. receive it with our joy and sorrow, our repentance and hope, that it may become for us the cup of salvation.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/17ba4e968e867e8c0af0b071.opus",
+      "sha256": "bf5182b27f49062ebaa9d4828040ae0ffc4bb29fdeb97d4664845407a1d4ed10",
+      "duration": 17.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "17ba4e968e867e8c0af0b071aca67da69b9dbfe7c00747bfc8bfc1ae5720dda9",
+      "priority": "daily-stable"
+    },
+    "blessed be god for ever.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a7f117d0e8cba61b228abecb.opus",
+      "sha256": "328ea817909cf2add651d7498a80e7089699cdc5b0b142384fee9232335f7fbb",
+      "duration": 1.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a7f117d0e8cba61b228abecb36a7c80d6293407d95c1f0150d2097f4518e8bc0",
+      "priority": "daily-stable"
+    },
+    "blessed be the lord god of israel,; for he has visited and redeemed his people; and has raised up for us a horn of salvation; in the house of david his servant; as he spoke by the mouth of his holy prophets,;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/67e7bd7adec35b94b2cf43ec.opus",
+      "sha256": "b7facc5ba8c10dab400c2df41d6d5010e9b51c449db0216f9f9042b3605249ac",
+      "duration": 14.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "67e7bd7adec35b94b2cf43ec60284232a103eb23b8546f5337135476cca3c3a5",
+      "priority": "daily-stable"
+    },
+    "blessed is he who comes in the name of the lord. god is the lord and has revealed himself to us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/72e6024e437512e0e95ca3e9.opus",
+      "sha256": "fe768e03eaad7d6074fed4f02695e2ab2091dc7d0bff284ae3f0cebb6c4fa9ce",
+      "duration": 7.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "72e6024e437512e0e95ca3e9170380dae56fae3cb2a53af773015a7b9eaa6def",
+      "priority": "daily-stable"
+    },
+    "blessed is the kingdom of the father, and of the son, and of the holy spirit, now and ever and unto ages of ages.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/6d4547c6b6126fee1777772b.opus",
+      "sha256": "3a5142dbb034b97f7080a3d8782ffabab2d9823b56f26705f5a0f20edb753f1a",
+      "duration": 8.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "6d4547c6b6126fee1777772ba44efbca1b6d63b9937e57c8ebe2e95d7ce6d3b2",
+      "priority": "daily-stable"
+    },
+    "bring creation to the victory of christ, when death shall be destroyed and you shall be all in all.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a9af08c89b4290b0e7ce8b81.opus",
+      "sha256": "34624387a9a519d7e2dab7e7e20ef152f4e6d9649d75e846a4ef7e91ff813ac8",
+      "duration": 6.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a9af08c89b4290b0e7ce8b819b338d257a570b9a35c979f8d817eaac79d4ac04",
+      "priority": "daily-stable"
+    },
+    "bring us, with all your saints, into the joy of your kingdom. through christ, with christ, and in christ, in the unity of the holy spirit, all glory and honour are yours, almighty father, for ever and ever.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/be558a29716b76e49f914cb7.opus",
+      "sha256": "a05d646349e9d02c6ea2e68601f63b394c1491a26e3564da0c0bdfde3857d98f",
+      "duration": 15.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "be558a29716b76e49f914cb7e184667c57a36f490e62ce3adb0a365c679a6d63",
+      "priority": "daily-stable"
+    },
+    "by the power of the spirit sanctify your church and make this bread the holy body of christ and this chalice the holy blood of christ, that all who partake may be united to him and to one another in the life of the kingdom.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f537f5538c2bda10fd6cb171.opus",
+      "sha256": "ed8f0dc9048b025d2d4cc4fe52c19d2a59f527accdc6c914da81ef56d221c20b",
+      "duration": 14.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f537f5538c2bda10fd6cb1715e5b9ea73840dcf4fe11b319e803f2673d27cc0c",
+      "priority": "daily-stable"
+    },
+    "by which the dayspring from on high has visited us; to enlighten those who sit in darkness and in the shadow of death,; and to direct our feet into the way of peace.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/fc7a3be184186d0336c943fd.opus",
+      "sha256": "e4ddb99bd55352d0e09ef409132bad73c995f7873eebe432f84ce3bdc1ae6cf3",
+      "duration": 10.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "fc7a3be184186d0336c943fd230fe58c96d0d5d04d89b313e026ca332af2ddd9",
+      "priority": "daily-stable"
+    },
+    "by your spirit sanctify your people, and make this bread the holy gift of the body of your christ, and that which is in this chalice the holy gift of the blood of your christ, that those who partake may receive purification of soul, forgiveness, communion of the holy spirit, the fullness of the kingdom, and boldness before you.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/01f65a418ef5c3c4e8861621.opus",
+      "sha256": "b0a80459a46b422c98bd4e0b8039ab73ac4a2182f3e4140245a11640a9afe3fe",
+      "duration": 22.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "01f65a418ef5c3c4e8861621a95ec7a3122b60dfea3eaf6ff63d371aa690cd40",
+      "priority": "daily-stable"
+    },
+    "christ has died. christ is risen. christ will come again.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/30a27cb3a55510106a4e83bc.opus",
+      "sha256": "deaf6ab0678786752a1f3058e09bcd6e131e89d9cc2e687d632d629ef96084ec",
+      "duration": 4.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "30a27cb3a55510106a4e83bc1e01db28935f1c0e8473a10fff68a0aba009293c",
+      "priority": "daily-stable"
+    },
+    "christ, have mercy.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f05649a777d82aa118425037.opus",
+      "sha256": "7201eebc03cf282def948fc6965a8a81bfc6e2b86ec4f8faf00ffaf0f1113974",
+      "duration": 1.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f05649a777d82aa11842503792e5e3c8acffaa1aeacbd6279afeee3db0612333",
+      "priority": "daily-stable"
+    },
+    "clothe your ministers with righteousness.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/212eb552565da7abceda5c88.opus",
+      "sha256": "a90ce34964b40168773f33bd3e23948246bab719e2754b63bc469af29adb47e4",
+      "duration": 2.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "212eb552565da7abceda5c88531e89526cb663efcecf375d4507371a3378d4be",
+      "priority": "daily-stable"
+    },
+    "come to the aid of your servants,; whom you have redeemed with your precious blood. number them with your saints; in glory everlasting. save your people, o lord,; and bless your inheritance. govern them; and lift them up for ever.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/0c83cad35bde99c1bc3a3ba2.opus",
+      "sha256": "f5026081eba8322270866064874614ab8b3c5ddea0794108311f87d21e903fc1",
+      "duration": 16.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "0c83cad35bde99c1bc3a3ba2fb56d71a60744d19a3976be55dbb51c5d21229e7",
+      "priority": "daily-stable"
+    },
+    "come, let us worship and fall down before christ. save us, o son of god, who are wondrous in your saints; we sing to you: alleluia.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2fd9eb1d8cbf75702e1a90ca.opus",
+      "sha256": "e9af3b3f4b444ffdfe56b00521409b97495b4e2ce5686ad288d1593f922831fe",
+      "duration": 9.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2fd9eb1d8cbf75702e1a90ca8282b540babcd8d906d1d0b48f00f9220e052656",
+      "priority": "daily-stable"
+    },
+    "come, o sanctifier, almighty and eternal god, and bless ✠ this sacrifice prepared for the glory of your holy name.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/fa0254c5085ccad665cefe97.opus",
+      "sha256": "f41d76847da4696bca34e53871b5145e0ad9ada76a6ec2c5124522129dc334e1",
+      "duration": 9.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "fa0254c5085ccad665cefe97245a8a54118701ca40f134cfe716122a1430f1f7",
+      "priority": "daily-stable"
+    },
+    "command that these gifts be borne by the ministry of your holy angels to your altar on high, before the sight of your divine majesty, so that all of us who receive from this altar the holy body and blood of your son may be filled with every heavenly blessing and grace.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b5f6bd7dfab543adcde43d0f.opus",
+      "sha256": "cd862b12137786e1816c245b68e16b8f0122369f22ed6dd782a6579620cb7e12",
+      "duration": 15.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b5f6bd7dfab543adcde43d0f3a7ac2affd579b17368c264b361ca2cdf30166e5",
+      "priority": "daily-stable"
+    },
+    "commemorating our most holy, pure, most blessed and glorious lady, the theotokos and ever-virgin mary, with all the saints, let us commend ourselves and one another and our whole life to christ our god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8ecdc0f1eedf3e2e0db1375a.opus",
+      "sha256": "d1d742b85c2485b99bd12fc9bf2e5abb5192a142c29fe94d33fcbc5627f4939c",
+      "duration": 15.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8ecdc0f1eedf3e2e0db1375a2c8bcf0a0f622862b4f1c66080a1228bddac77cc",
+      "priority": "daily-stable"
+    },
+    "consecrate us for your service and make these gifts for us the body and blood of jesus christ, that the church may become what she receives: the body of christ given for the life of the world.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3fd782e63edb8b49c2a82b4a.opus",
+      "sha256": "33c6fa0b228df08ec0f896d0252e11f790d87ccc2f32d565a95d4e278909350d",
+      "duration": 11.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3fd782e63edb8b49c2a82b4a2a174d124be705f4487f6c88640fa2c9b131c285",
+      "priority": "daily-stable"
+    },
+    "create in us clean hearts, o god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/75caca393d238ace44d68d37.opus",
+      "sha256": "b6250ed3d3bd8a1e1dd1e040155fd8695136572762d1b108143495bcf7babd9f",
+      "duration": 2.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "75caca393d238ace44d68d37bf6b9a8be80d7c1776ab17ad184a44f2ac2a0248",
+      "priority": "daily-stable"
+    },
+    "day by day we bless you,; and praise your name for ever and ever. grant, o lord, to keep us this day without sin. have mercy upon us, o lord; have mercy upon us. let your mercy, o lord, be upon us,;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e1fb40f2c519c8c9ce8d7342.opus",
+      "sha256": "2993b9d7c70dbd013923ad7331b65aaea6b5d570474e5a675b79f083407fe6e1",
+      "duration": 15.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e1fb40f2c519c8c9ce8d7342c941080081d9bf0cb738ea66c64563a77a280ab2",
+      "priority": "daily-stable"
+    },
+    "deliver us, we beseech you, o lord, from all evils, past, present, and to come;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/1711ff7ec10f696a6531b79d.opus",
+      "sha256": "4f6c993ffcfcfdc6e8956537c7227913ef64a738eedae978ae3384f5c54a1c1f",
+      "duration": 5.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "1711ff7ec10f696a6531b79d90e9269efb6295d816fecb388ce07f274a21d69b",
+      "priority": "daily-stable"
+    },
+    "do this in remembrance of me.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/10f9c156a7f8dd11559f5443.opus",
+      "sha256": "853a75306c6b5815d4090aa8cb5ea419bc72ed4fe00ea8207c37a3c5527d1b54",
+      "duration": 1.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "10f9c156a7f8dd11559f5443b20d6967289e53af11502b3d6666692e93564cea",
+      "priority": "daily-stable"
+    },
+    "dying, you destroyed our death; rising, you restored our life. lord jesus, come in glory.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ff9c77a40a82a2d089a0c5b6.opus",
+      "sha256": "238c53e5b1b82c07fbaef6fecadeff9862200f47dfab68ea13b490f350d69136",
+      "duration": 9.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ff9c77a40a82a2d089a0c5b63e901f85b46daf25ded7e487102eda8e048252ef",
+      "priority": "daily-stable"
+    },
+    "especially our most holy, pure, most blessed and glorious lady, the theotokos and ever-virgin mary.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7d338a636c257edd6b5352e2.opus",
+      "sha256": "64f259bdb35adb360abe87e90da6bc48898276cbd5aaacc27c8afd84c32b09fa",
+      "duration": 7.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7d338a636c257edd6b5352e220225e746a219088fbb32d6c6b2dca71869d60e4",
+      "priority": "daily-stable"
+    },
+    "especially suitable for pentecost, funerals, healing celebrations, and occasions emphasizing the final victory of christ.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/fba3ee4f3935e8f8fc1c2941.opus",
+      "sha256": "384151f714ace12ac6a3d2256bdaa9784e6b02fa7e895eb67ae97ebd59ec4897",
+      "duration": 8.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "fba3ee4f3935e8f8fc1c294183bb8b754fab9a35b413eaf29e7eefd4c2637b10",
+      "priority": "daily-stable"
+    },
+    "especially suitable for sundays and feasts.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/dee2fe3b78b21e3aaf0b2db8.opus",
+      "sha256": "e7b5b4e2a956f9a24331b8b45a9e63c889b5c829f98b35fbc745d38f44090810",
+      "duration": 2.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "dee2fe3b78b21e3aaf0b2db8691da8da58abfefba2d4d1365ce020d7862a5db8",
+      "priority": "daily-stable"
+    },
+    "faithful god, be present in the work of this day. keep us mindful of you in labour and rest, in speech and silence, in decision and service, and make our ordinary lives places of grace; through jesus christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7841e99fec9d183ea8654b76.opus",
+      "sha256": "c34194cfda6286cacd07258c1173196a861054a888740420214cb5cb0830ed2e",
+      "duration": 18.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7841e99fec9d183ea8654b760de9d42a383ff00ec43bfa7f06887678c7639dee",
+      "priority": "daily-stable"
+    },
+    "father of infinite majesty and inexhaustible mercy, all creation is yours, and every good gift returns to you in praise. you called israel, spoke through the prophets, and in these last days have spoken in your son, the eternal word made flesh.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/15173a87da89563f51577cc6.opus",
+      "sha256": "745b15d8e7f16b365e8e3cc6b8439896f329bb2618d963277ec5afe70960547a",
+      "duration": 17.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "15173a87da89563f51577cc6a27f96616807d401e62ac90ff53be4b7e49f53c6",
+      "priority": "daily-stable"
+    },
+    "father, son, and holy spirit: the trinity, one in essence and undivided.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/48839ec683aee5061dd884b4.opus",
+      "sha256": "ee15512f2028e0f8fce1338afc51e08dee2e3234227b3b2d2f94fc3c1be371a4",
+      "duration": 6.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "48839ec683aee5061dd884b4a7b4602211f20bad307b117494d28a65d33e5e89",
+      "priority": "daily-stable"
+    },
+    "father, we remember the one sacrifice of christ and rejoice in his resurrection and ascension.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/67e83b6e017ef2c5bb585426.opus",
+      "sha256": "a382d4ac0dd24477f3334078103c12247c320f8979017351a37737b9bb6fd362",
+      "duration": 6.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "67e83b6e017ef2c5bb58542632bf2d42dd634a7ceac02ab91bd4075ddf17260e",
+      "priority": "daily-stable"
+    },
+    "for all these things we give thanks to you and to your only-begotten son and your holy spirit: for all the benefits known and unknown, manifest and hidden, which you have bestowed upon us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/cb94073bead883b555ae0fe6.opus",
+      "sha256": "54d5c439ec3f3ad944ea458e9bee8ac83ea6547212afb86532d7aadc589833c5",
+      "duration": 11.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "cb94073bead883b555ae0fe6c12ae48bec329ff70ffdd0e883902cdd3dec8f8a",
+      "priority": "daily-stable"
+    },
+    "for favourable weather, abundance of the fruits of the earth, and peaceful times, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/43a14f8f7fac692e1b837c87.opus",
+      "sha256": "fb491674417e4200d7c1019b8368cfd13c21db87bc0b646e34569b83776eab2d",
+      "duration": 7.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "43a14f8f7fac692e1b837c876cb03c6c0cc921487ef78951102d4020d25d46fd",
+      "priority": "daily-stable"
+    },
+    "for in the night in which he was given up—or rather gave himself up—for the life of the world, our lord jesus christ took bread in his holy, pure, and blameless hands;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/97590a83a1d97c27b1a3cf66.opus",
+      "sha256": "f531ec9a3a5db56f6972bb15ce75a0218f06e1d4aaba57b014ce6ce130f9f04f",
+      "duration": 13.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "97590a83a1d97c27b1a3cf664d0b8de3f82d1c7aea39244afa5b0bb565da29f2",
+      "priority": "daily-stable"
+    },
+    "for jesus christ, on the night before he gave himself for the life of the world, took bread; and when he had given thanks, he broke it, gave it to his disciples, and said: take, eat:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/4c1baea3d3728184b1c8baa3.opus",
+      "sha256": "3cf91c55b0b92072f28d97708900db5f7721ab067788509ae80d1006d0673d95",
+      "duration": 13.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "4c1baea3d3728184b1c8baa35d5c0d3154fb2db3f8c75891b64b2986fe26d332",
+      "priority": "daily-stable"
+    },
+    "for on the night in which he was betrayed, our lord jesus christ took bread into his holy and venerable hands;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b30f393a4fcf0b7cb69a1c0c.opus",
+      "sha256": "d7737ad305c2dfbc353f9709e268af8df1bc2fdf735dc504f2e0da3be0162d13",
+      "duration": 7.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b30f393a4fcf0b7cb69a1c0ca70b4423a94d518617fef2b71551b6ff325cd772",
+      "priority": "daily-stable"
+    },
+    "for on the night in which he was betrayed, our lord jesus christ took bread; and when he had given thanks to you, he broke it, gave it to his disciples, and said: take, eat:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3fdd82dfd81d42d5b3bb0f17.opus",
+      "sha256": "e4224aa60401ef467c4f152a3eaead92ab5e552a821e41920eb5db85bf236f25",
+      "duration": 11.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3fdd82dfd81d42d5b3bb0f17562e7d15435e634b6327ca1277d8a25aa4b2fcd4",
+      "priority": "daily-stable"
+    },
+    "for only in you can we live in safety.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/68c532798ea9fadfde0ff2c2.opus",
+      "sha256": "9d24ffecef844c6412dcde6fad8b16a4a15f37ee6b3d547f2ad8b11e93bba8fb",
+      "duration": 2.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "68c532798ea9fadfde0ff2c2d06e1b93fdf661d26d731568813f701a2d03fcc7",
+      "priority": "daily-stable"
+    },
+    "for our bishop, the apostolic witness, the honourable presbyters, the diaconate in christ, all ministers, and all the people, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/21264c30fe379c142edd9672.opus",
+      "sha256": "7856eb99f28cd529c11f78d74b2c0d0521287e7b1cdb7e5a2eff0b46abeb43b4",
+      "duration": 9.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "21264c30fe379c142edd9672f6198d7cff48f222792617dae233b07531ec81a7",
+      "priority": "daily-stable"
+    },
+    "for our deliverance from all affliction, wrath, danger, and necessity, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/863918fa0b88199d0ada8c61.opus",
+      "sha256": "fa716833c1cdfe530fa0a58e8108256bbcc9631ea9565298cf022d83c3c7142f",
+      "duration": 6.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "863918fa0b88199d0ada8c61d1e75b4da8dbb5f329eb43a69f555694911daaba",
+      "priority": "daily-stable"
+    },
+    "for our lord jesus christ, on the night he was betrayed, took bread; giving thanks, he broke it and gave it to his disciples, saying: take, eat: this is my body, which is given for you. do this in remembrance of me.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/92270a0200faa6366da6b331.opus",
+      "sha256": "d3174afc7ccd3e2c570ad78316fb16f2f40f518bde76c66b26192e25b16fa1ca",
+      "duration": 16.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "92270a0200faa6366da6b3318634539b4d060c6afff2fd905091b57d5eca67dc",
+      "priority": "daily-stable"
+    },
+    "for the peace from above and for the salvation of our souls, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/48ab023efaf93c2df9c0fbe9.opus",
+      "sha256": "39fb73f37453d41984ee319d949cf341a895fcae407b94e77fd6b19fcab3fd86",
+      "duration": 5.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "48ab023efaf93c2df9c0fbe97863ed5a719cc38e4bd221bd65c203f5f21a1278",
+      "priority": "daily-stable"
+    },
+    "for the peace of the whole world, for the good estate of the holy churches of god, and for the unity of all, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/14857b6a0399d5b58b4fb41c.opus",
+      "sha256": "5f4fe8b5c003e0d502960a79224849884f93ad7a33f1936e1ea961588b319d8b",
+      "duration": 7.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "14857b6a0399d5b58b4fb41c3c2f763b79125658005a956882b1a396f86228de",
+      "priority": "daily-stable"
+    },
+    "for the precious gifts here set forth, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/86c236e93a62260ad348db2e.opus",
+      "sha256": "36e2cd7f78ed645f016c5c1280a96edbb65ecd46d1f970f16436d6c9c8e359f2",
+      "duration": 4.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "86c236e93a62260ad348db2e0b70be6b656c6d46afe44f72fedbaa537c8c387f",
+      "priority": "daily-stable"
+    },
+    "for this city, for every city and country, and for the faithful who dwell in them, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d913f210a0d7121c8c92f633.opus",
+      "sha256": "dd93333cd5f1339031b3b8e33c444a54251317b28a20b89752fb60a053160ab0",
+      "duration": 7.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d913f210a0d7121c8c92f633a7cd9f3a0ab749c43fb2b356e984f2ed6edf2af1",
+      "priority": "daily-stable"
+    },
+    "for this holy house and for all who enter it with faith, reverence, and the fear of god, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9efbdf8d495a5a7ee0f16b6a.opus",
+      "sha256": "08b1469bc1a3b6afac9e5a7f9cb71f6fbfa6ff871e84cce961f3cfe15a15e2b8",
+      "duration": 7.6465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9efbdf8d495a5a7ee0f16b6aaa0ff162aba47491a14821e648e015d2be1989c3",
+      "priority": "daily-stable"
+    },
+    "for those in civil authority, that they may serve justice and peace, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ec5319888bbe5d746454eb3b.opus",
+      "sha256": "c6c8ca88930b362dee3147d824351131b870eccbe281e4d8e8125183f46a5afc",
+      "duration": 5.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ec5319888bbe5d746454eb3ba4d5cb5b1387659fff04f5a7673afb7168796354",
+      "priority": "daily-stable"
+    },
+    "for travellers by land, sea, and air; for the sick and suffering; for captives, refugees, and all in danger; and for their salvation, let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/482f2e313ea111afe5613bba.opus",
+      "sha256": "c327ed818b1bc9f29f60639124eb3c69466ea7a0302c60b19fa2adac3efceb1d",
+      "duration": 11.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "482f2e313ea111afe5613bbaa581f28d338fa08e3b15baa00dbc6d2f291c9959",
+      "priority": "daily-stable"
+    },
+    "for you alone are the holy one, you alone are the lord, you alone are the most high, jesus christ, with the holy spirit, in the glory of god the father. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3eec3920cde4db8cf6a4a8bd.opus",
+      "sha256": "4f5173dfcb7a3cfed51c4558605c9c42ef4290c1e2b82907a0e242c986322200",
+      "duration": 11.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3eec3920cde4db8cf6a4a8bdaf3049b7c52a424d3f637df5a024858c37b9e107",
+      "priority": "daily-stable"
+    },
+    "for you are god ineffable, inconceivable, invisible, incomprehensible, ever existing and eternally the same: you and your only-begotten son and your holy spirit.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/399546f3a2d49b9c4af247f8.opus",
+      "sha256": "60ebd7a82d272ebb59d99051ad4ab9717cef44ade946895a4f4520c733cf4cd0",
+      "duration": 13.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "399546f3a2d49b9c4af247f82ca452efa7aa116f2a612463eff142af3c2eb99a",
+      "priority": "daily-stable"
+    },
+    "for you are holy, o our god, and to you we send up glory, to the father, and to the son, and to the holy spirit, now and ever and unto ages of ages.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/1f8507644bf814294db1d698.opus",
+      "sha256": "0df6c423873657bad30e66c48e0440752e4ddf7fa56b27dd7ef9a65a93afbc72",
+      "duration": 12.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "1f8507644bf814294db1d698072e8d19f2815288a91bae08548be437cc03bbf7",
+      "priority": "daily-stable"
+    },
+    "for you awaken your people to watch in hope, to repent without fear, and to prepare for the coming of the one who has come among us and shall come again in glory.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/768026231ccc0e1eb5b7e728.opus",
+      "sha256": "5758f0dc7f8c7af603dcf70fe532b333b8900c8a6c9c8db5979ff3b44985beae",
+      "duration": 10.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "768026231ccc0e1eb5b7e728cabf4f1957dad60ef99bc97499eff7f9a90cec6c",
+      "priority": "daily-stable"
+    },
+    "for you have redeemed me, o lord, god of truth.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f5fe31e1531f91e2690f1ab4.opus",
+      "sha256": "a2749201c0f33872c69ff8037430317b3fbf05cede6767ea2cdf4a8073990893",
+      "duration": 4.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f5fe31e1531f91e2690f1ab43944235590b569c3fd78b81a22e8d054a786acd4",
+      "priority": "daily-stable"
+    },
+    "for you shall go before the face of the lord to prepare his ways; to give knowledge of salvation to his people; for the remission of their sins; through the heart of mercy of our god,;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/855481a33e02d3a0e2d4c9db.opus",
+      "sha256": "e59a9d6804b8b3875afce01cf8a289257423bd4fd39500eadaa74fe5444d5408",
+      "duration": 11.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "855481a33e02d3a0e2d4c9db8ba2b0e00c089d5163a3c229576c9d6ddf7a6984",
+      "priority": "daily-stable"
+    },
+    "forgive us, heal those we have wounded, teach us to make repair where we can, and grant us peace as we rest in your mercy; through jesus christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9ab6698f5cd1b8f23edfb01a.opus",
+      "sha256": "d763341da3df69674a43c3c5283a30875fa06baec622f14f609025a61ba2df7a",
+      "duration": 11.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9ab6698f5cd1b8f23edfb01abaab92f2cb0489b82d76ea13261a9d94981f9675",
+      "priority": "daily-stable"
+    },
+    "free me by this your most holy body and blood from all my sins and from every evil; keep me always faithful to your commandments, and never let me be parted from you. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a27f2eff6eb3a4d955bdde62.opus",
+      "sha256": "0e9b20cfbb17b92fd8d2b4c68737e3559930d7345b38cd16705fc1f4ec5aa9c1",
+      "duration": 13.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a27f2eff6eb3a4d955bdde62f56e634c7ccc3de0bbec2e83c56b88b468438c4b",
+      "priority": "daily-stable"
+    },
+    "gather your church from every nation into unity; strengthen your servants in ministry; heal the sick, comfort the afflicted, protect the vulnerable, give justice to the oppressed, and remember all who have died in the hope of resurrection.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e910d6c3c4efbad2a31e5c25.opus",
+      "sha256": "4aaa9787703b7734f38de847f078b1878b33c64f27befa863f331c9642851c97",
+      "duration": 17.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e910d6c3c4efbad2a31e5c2553de120858af3d1ac613e6b54305f382f9e5f5fe",
+      "priority": "daily-stable"
+    },
+    "give peace in all the world.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7b914b16cb9f116bb8f27285.opus",
+      "sha256": "56c1daa8bc792e85ab05922bb1db0ab76ade67755fafb71ae3f57be45df0b9e9",
+      "duration": 2.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7b914b16cb9f116bb8f27285a7e5fca058d1d020b5079285940b03ee347e1010",
+      "priority": "daily-stable"
+    },
+    "give peace to your church and to the world.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/807c9b282e2d0c7ccde0f0e4.opus",
+      "sha256": "1fc08e0e0422da48d517b1fb2b5cd0d0a3ee24a0ccdf1e7ddb9fde54d7bc5686",
+      "duration": 2.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "807c9b282e2d0c7ccde0f0e49960fb4320e465354957e05541f87c2c45314221",
+      "priority": "daily-stable"
+    },
+    "give rest to the departed.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/cabc4d099ab3dc0f3a31c424.opus",
+      "sha256": "831e764ec955718fee119c62c9ca608affc190daa0985cc326349c2a810a89ee",
+      "duration": 1.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "cabc4d099ab3dc0f3a31c42447c2f90f6c106ce346844c9eddb824739ac296ec",
+      "priority": "daily-stable"
+    },
+    "glory to god in the highest, and peace to god's people on earth. we praise you, we bless you, we adore you, we glorify you, we give you thanks for your great glory, lord god, heavenly king, o god, almighty father.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7da025f06012ec22c7405060.opus",
+      "sha256": "b3fa5705d1027a44cebb6ca5b846a06d5e7b68812fc7b70ec9b8f816973cbc4f",
+      "duration": 16.9665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7da025f06012ec22c74050601a3846fcc646492f3a66374213563c91b3210af5",
+      "priority": "daily-stable"
+    },
+    "glory to the father, and to the son, and to the holy spirit, now and ever and unto ages of ages. amen. holy immortal, have mercy on us. holy god, holy mighty, holy immortal, have mercy on us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e5ecd65175593c4f1db415ea.opus",
+      "sha256": "18c0de0d14291f036022fd5a927b621f19f92bc727f58239b7b9f72819d1afab",
+      "duration": 18.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e5ecd65175593c4f1db415eac7d4863e862cf7dbd7f247c6b1734ce450cd3dfa",
+      "priority": "daily-stable"
+    },
+    "glory to the father, and to the son, and to the holy spirit, now and ever and unto ages of ages. amen. lord, have mercy. lord, have mercy. lord, have mercy. give the blessing.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/dabb8a9c14c9278a0dc59dac.opus",
+      "sha256": "3731165fced28069ab205e8f3ee137383e642af5db648304584474445085bde2",
+      "duration": 16.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "dabb8a9c14c9278a0dc59dac032815c6749d6be0d81837f72e8a87140ae0d856",
+      "priority": "daily-stable"
+    },
+    "glory to the father, and to the son, and to the holy spirit; as it was in the beginning, is now, and shall be for ever. amen. alleluia.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/21dcde55de7522441e3e305f.opus",
+      "sha256": "75cd9a04cc32c3bd6ed15811cdf76c7ad00dccc2e9725f49db75de493cdf39b8",
+      "duration": 12.6465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "21dcde55de7522441e3e305fb1191b54bbfd26708158b24fdcaae97ec1f2dfed",
+      "priority": "daily-stable"
+    },
+    "glory to you, o christ our god and our hope, glory to you.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/21c4516f7ad3045fb9704ef3.opus",
+      "sha256": "c04754cf9583de31360f6261aa09f6c7cc0422de774c4ebcbd161212de373755",
+      "duration": 5.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "21c4516f7ad3045fb9704ef3f4a5724546c04a00e7c122f99339396f60c46f06",
+      "priority": "daily-stable"
+    },
+    "glory to you, o lord, glory to you.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ee16ff336690bd9243c686ef.opus",
+      "sha256": "7452639bc0d528d9f5ee50e1b8ab4979da5dc202ba6c6aa04e90e5b4fe2ed069",
+      "duration": 3.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ee16ff336690bd9243c686ef458ff4c6509ecb2a96a479267550f09d8fc2fce0",
+      "priority": "daily-stable"
+    },
+    "go in peace, glorifying the lord by your life.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/463839b92f3d865fd28b27f5.opus",
+      "sha256": "e27e774d459f3157d8a9753e0af09ed9f1f0dcb4aa3af2e9d337d16edbae5dc7",
+      "duration": 3.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "463839b92f3d865fd28b27f5af7a5e5ba95828eaa64e8953a309d79daf0e19a3",
+      "priority": "daily-stable"
+    },
+    "go, the mass is ended.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b64487dd1d2360d661219bde.opus",
+      "sha256": "d3497f25c06b2aa9e7a71f0ad58da9fa5d7d6b03e7d73efffdc56ede679b657b",
+      "duration": 2.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b64487dd1d2360d661219bde5213aa3072bb912b82533c91b3d64dad37e8f3dc",
+      "priority": "daily-stable"
+    },
+    "grant that all of us who partake of the one bread and chalice may be united to one another in the communion of your holy spirit, and that none of us may partake for judgment or condemnation, but for healing of soul and body and for life in your kingdom.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/eda29d1d8e7110a215b0213d.opus",
+      "sha256": "fbde7cfa9d67f1d2f2a105897bf9bafeca421d1334c1dc9ea85fa7a92695817d",
+      "duration": 16.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "eda29d1d8e7110a215b0213de741fe2cba22b11901939e34000f24591b207b97",
+      "priority": "daily-stable"
+    },
+    "grant that by the mystery of this water and wine we may share in the divine life of him who humbled himself to share our humanity, jesus christ your son our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/59c68876ddf265a6e4fa0c8b.opus",
+      "sha256": "7e21262b1080eda932899f9d35596d26c3bdc28d6a253bfcac4303ea45756c9b",
+      "duration": 10.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "59c68876ddf265a6e4fa0c8b95edb83aeaa7b77c725379be710425c7fca80817",
+      "priority": "daily-stable"
+    },
+    "have mercy on us, o god, according to your great mercy; we pray you: hear us and have mercy.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f7502dce36b4c5c1f7723171.opus",
+      "sha256": "2ee4f78af6a6371e4d8014c38c8f54d0c3ee9c7820b89d4ac16dde8f6a313286",
+      "duration": 7.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f7502dce36b4c5c1f7723171a7ea82ea40d87df1a7bb3dfaf7fd6c5407d274d7",
+      "priority": "daily-stable"
+    },
+    "having asked that the whole day may be perfect, holy, peaceful, and without sin, let us commend ourselves and one another and our whole life to christ our god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f347a95a106005fae44c00b9.opus",
+      "sha256": "f7abd48d69fd756c433fc03843e44e90a0d7c0b9a4cc0a83257de8a35d37d620",
+      "duration": 11.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f347a95a106005fae44c00b9e455ce91c4b1c751348fd56990067c5412380ed2",
+      "priority": "daily-stable"
+    },
+    "he has put down the mighty from their seats; and exalted the lowly. he has filled the hungry with good things,; and the rich he has sent away empty. he has received israel his servant,;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ab4b990fef9dd78a8d1dbef8.opus",
+      "sha256": "0adbd2b0520b2f49b5086f3e3be9194c74abc3ce317fc83004b282d4f193251a",
+      "duration": 14.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ab4b990fef9dd78a8d1dbef852243f78b303b17d5e90a1ab9882852cdbeb55bd",
+      "priority": "daily-stable"
+    },
+    "heal the divisions of humanity, guard the vulnerable, and let us rest this evening in your mercy; through jesus christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c5fe006020eef75368e05c49.opus",
+      "sha256": "a2faa9c06dd8eb4941d5b0618d3006a907ba2a099f86e14f55d509cb6f4d5490",
+      "duration": 9.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c5fe006020eef75368e05c49658c46d5b66218f5c1ca532f19a66e6d39e756d0",
+      "priority": "daily-stable"
+    },
+    "help us, save us, have mercy on us, and keep us, o god, by your grace.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9ca84edce52547e0c453fe81.opus",
+      "sha256": "796ddd80a709bfda5c9439b8a6e380e30ddee4d990f2697b9563c1c336ec4747",
+      "duration": 5.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9ca84edce52547e0c453fe81b3421a8055d52266898d221a64e87c5699b92ece",
+      "priority": "daily-stable"
+    },
+    "hide me under the shadow of your wings.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2ea503a71ce445f6d6922904.opus",
+      "sha256": "53c04f05f1e5b4adda828478f6146e098c0ea08ffe1d7a759e5f672deeb7a3ac",
+      "duration": 1.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2ea503a71ce445f6d6922904d2172a214ea6a116b4903da0e41da3dd9cf92c18",
+      "priority": "daily-stable"
+    },
+    "his kingdom shall have no end. and i believe in the holy spirit, the lord and giver of life, who proceeds from the father; who with the father and the son together is worshipped and glorified; who spoke through the prophets.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/1ca7a3264e3434ebf0f7340a.opus",
+      "sha256": "dbdcd77f96a95e4079b254a862f05f9f949d398b11e60f0ce333b8c8b3e5eb81",
+      "duration": 20.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "1ca7a3264e3434ebf0f7340ae5113b183d9d6db68f91ec6a0da34f97fb41867e",
+      "priority": "daily-stable"
+    },
+    "holy and gracious father, you are the source of life and the giver of every good gift. in jesus christ you entered our wounded condition, bore our griefs, broke the power of sin and death, and opened the way of resurrection.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e42689ebc4c1d2c84237906e.opus",
+      "sha256": "53b8a11fc3ab97fc0b88a440a1312ffac0c574a50e7d1c618eb846b3e21f9978",
+      "duration": 15.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e42689ebc4c1d2c84237906eca4a2e357a4c3d6ba77daa852b40776388115941",
+      "priority": "daily-stable"
+    },
+    "holy god, holy mighty, holy immortal, have mercy on us. holy god, holy mighty, holy immortal, have mercy on us. holy god, holy mighty, holy immortal, have mercy on us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/412c1a1f78360a074b7db97f.opus",
+      "sha256": "a7705fb9113875fcaa8ae582393c5cf98285a29ab0b4b51bf187d12567ad8906",
+      "duration": 16.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "412c1a1f78360a074b7db97f934090c7d5d933cfedadb78d62943876fbff775f",
+      "priority": "daily-stable"
+    },
+    "holy, holy, holy lord god of hosts. heaven and earth are full of your glory. hosanna in the highest. blessed is he who comes in the name of the lord. hosanna in the highest.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f011799583af60f465c40a0f.opus",
+      "sha256": "44f608f1828ca11c3af747574cfb7711a6a932384489e415dbf1e1a34702c3db",
+      "duration": 13.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f011799583af60f465c40a0fb996e12e86c584a1b9d25346f36bbe8a6f51d655",
+      "priority": "daily-stable"
+    },
+    "holy, holy, holy lord of sabaoth; heaven and earth are full of your glory. hosanna in the highest. blessed is he who comes in the name of the lord. hosanna in the highest.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d034537fc35ff697b9f4b79d.opus",
+      "sha256": "9067119ebd419d2fd20faadb1e2da434c24688786f9927a95343f6963090c859",
+      "duration": 12.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d034537fc35ff697b9f4b79d1a35060d4a32fac2fc015be3a493ffdcdec66fff",
+      "priority": "daily-stable"
+    },
+    "holy, holy, holy,; lord god of hosts; heaven and earth are full; of the majesty of your glory. the glorious choir of apostles praises you; the praiseworthy fellowship of prophets praises you; the white-robed army of martyrs praises you.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/de069c98e7d1a7bdaebedd04.opus",
+      "sha256": "0a39cec8924b8dcb1a166ddbf892a2634f0e8e1f8acb789fb4cfea65651e0c5b",
+      "duration": 18.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "de069c98e7d1a7bdaebedd043c9a85e3463e698748230ddfe4e7c47b2511b3dd",
+      "priority": "daily-stable"
+    },
+    "i believe in one god, the father almighty, maker of heaven and earth, and of all things visible and invisible. and in one lord jesus christ, the only-begotten son of god, begotten of the father before all ages;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2584291097c121843381d1af.opus",
+      "sha256": "f25866eb969143a589e9fc8acd37a2d10908272ce024065edc76247d0148ec94",
+      "duration": 15.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2584291097c121843381d1aff9952e1070615c98b73645b1fb3f34f6d9681f0d",
+      "priority": "daily-stable"
+    },
+    "i believe in one, holy, catholic, and apostolic church. i acknowledge one baptism for the forgiveness of sins. i look for the resurrection of the dead, and the life of the world to come. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/805cd30d89af02f7d3774e14.opus",
+      "sha256": "4649ad8fe3db7a04129c061433bbe65ca5eb11e094ca2674d390cea59074366b",
+      "duration": 14.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "805cd30d89af02f7d3774e144b1c286cbca0d228f2d506b5b5bf28a7db642ca2",
+      "priority": "daily-stable"
+    },
+    "i commend my spirit.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/998ee3fcc47021ebbc9ccee2.opus",
+      "sha256": "5723da878c3c275e219c133eb7a1ba003109591ba79b66a1c2a305ce1fa259de",
+      "duration": 1.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "998ee3fcc47021ebbc9ccee25b686b7d0ac3fe383c4ff0c131c628d39c9db924",
+      "priority": "daily-stable"
+    },
+    "i confess to almighty god, to blessed mary ever-virgin, to the holy apostles peter and paul, to all the saints, and to you, my brothers and sisters, that i have sinned exceedingly in thought, word, and deed:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/cfa61448f0be740f6024987a.opus",
+      "sha256": "078b0ec3d7d2f16ad12f9652b0024d97e9678a585b17d6980fd9645fb14799a3",
+      "duration": 13.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "cfa61448f0be740f6024987a8606cd41775edc3eba225cecdafdc274587559c7",
+      "priority": "daily-stable"
+    },
+    "i will go to the altar of god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f3633e344208425e3523bd54.opus",
+      "sha256": "3e3598ba3085cccaea218936f4655961b5a6a3b47eee03f71079de1edcf5c850",
+      "duration": 1.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f3633e344208425e3523bd5486e5e64a8daf73b93ed97cb2d1426d189cb98ece",
+      "priority": "daily-stable"
+    },
+    "i will wash my hands among the innocent, o lord, and go about your altar, that i may hear the voice of praise and tell of all your wondrous works.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/13ef77e43d5e55ea734b0b51.opus",
+      "sha256": "1c0a71c8b173034d7a9eb2112b75be06080f040004814dedadd79916ea43502e",
+      "duration": 8.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "13ef77e43d5e55ea734b0b5129e7e1d002604c2e1f4ddbf1c2d3e40ccf0e9989",
+      "priority": "daily-stable"
+    },
+    "in a spirit of humility and with a contrite heart, may we be received by you, o lord; and may our sacrifice this day be offered in your sight so as to please you, o lord our god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/fa1c02506d0adbdf37f7f434.opus",
+      "sha256": "e55105852269c150ad73326557b2b94fa1d85556bfd6a6839e2b4a665e71b4b0",
+      "duration": 12.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "fa1c02506d0adbdf37f7f4345372c6c7ad3c737a32417c68e1e3c368141bba00",
+      "priority": "daily-stable"
+    },
+    "in humble prayer we ask you, almighty god:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/abb322bdc38a24bb479a7210.opus",
+      "sha256": "b4717823d1f15d5352dc4ece10d2366b51eccd3de07e7f0af0badc334990196b",
+      "duration": 3.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "abb322bdc38a24bb479a7210b352b2b33286ff9a6a0edbb227733f469a6a13da",
+      "priority": "daily-stable"
+    },
+    "in jesus christ, your eternal son, you have entered our suffering, reconciled us to yourself, triumphed over the powers, and raised human nature into the life of the age to come.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d2d9caceda54b3604e924cee.opus",
+      "sha256": "1a7cccfd35c876c6cde49d383f6d660443422390b64f2b27a69071c12a51a6d5",
+      "duration": 12.6465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d2d9caceda54b3604e924ceeac5a17b00e67b38aa891199b6b4a63a914670902",
+      "priority": "daily-stable"
+    },
+    "in peace let us pray to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/af575bed771bd3cb84750421.opus",
+      "sha256": "79d35acd8521a24a6be0efe81e8ef371ee36d58d1dfb4c8bfbf1d03c7aa36896",
+      "duration": 2.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "af575bed771bd3cb8475042155c393e744fe795779297be599ffe4ae2554e388",
+      "priority": "daily-stable"
+    },
+    "in penitential seasons an authorised acclamation replaces the alleluia.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/325ee2c7da95720ec782639b.opus",
+      "sha256": "b9038b1ab921fd741885c5da80df747de18b3aa8c6a290b5aa05d03df7992bb9",
+      "duration": 4.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "325ee2c7da95720ec782639b978ad8f83431b37b7afd62d27bfddc5752112bab",
+      "priority": "daily-stable"
+    },
+    "in the same way, after supper he took the cup, gave you thanks, and gave it to them, saying: drink from this, all of you:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/4c04715f8be61586ce440af0.opus",
+      "sha256": "03e817e80675d77f58db91f531a539a3758519b1a5fd89f5faa47cf3453fa63b",
+      "duration": 9.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "4c04715f8be61586ce440af09548d91005acebcaa82151e346f58ec7cd7314f5",
+      "priority": "daily-stable"
+    },
+    "in the same way, after supper he took this excellent chalice into his holy and venerable hands; again giving you thanks, he blessed it and gave it to his disciples, saying: drink from this, all of you:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2f24d60999f1d286857b55f3.opus",
+      "sha256": "0207ed603fee2d82b236e1a8a84dc186197c37dffbc2c52834d4a0177cdc6cdd",
+      "duration": 14.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2f24d60999f1d286857b55f359382cf3110488c6a48a44956ea641139ca3d469",
+      "priority": "daily-stable"
+    },
+    "intercessions are offered for the church, the world, those in need, the local community, and the departed. brief spontaneous or charismatic prayer may be included in an orderly and non-coercive manner.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9b61905ff5b20a7524c485ca.opus",
+      "sha256": "422574d3239c7481d4e7ed2bc50e746f5df6aa6ba7327de4f41092e28d2ea2df",
+      "duration": 12.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9b61905ff5b20a7524c485ca4d923e217c774ff15ee23cef6453f92104078656",
+      "priority": "daily-stable"
+    },
+    "into your hands, o lord, i commend my spirit.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d80eb5cdb172848f2713477d.opus",
+      "sha256": "e4633d32339d0bd41d5ec490b3ba2347b5308031156eb939473db426c7443d83",
+      "duration": 3.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d80eb5cdb172848f2713477d6fabf0cc2a7a25167a711fb863cccdf4de81205f",
+      "priority": "daily-stable"
+    },
+    "it is meet and right to hymn you, to bless you, to praise you, to give thanks to you, and to worship you in every place of your dominion;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/6df118a462db7c7100cd896e.opus",
+      "sha256": "f5584e3823f5853e829fcfebe46731e84bc535d678bae0d934f1ddb200ebc4c3",
+      "duration": 9.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "6df118a462db7c7100cd896ed2360f710dc4715c569484507d0c71c641d46ca0",
+      "priority": "daily-stable"
+    },
+    "it is meet and right.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/6033e8af4d77a2e051cc0efe.opus",
+      "sha256": "3fcc3fbcba6d2c782984d9d29aed1f64cd3990022a6eba7857346ceadda16301",
+      "duration": 1.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "6033e8af4d77a2e051cc0efe9a7a621eec6fcb7384cdca8c88ed318a5298c10f",
+      "priority": "daily-stable"
+    },
+    "it is right and just.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/429a53c77857b5a367e4b361.opus",
+      "sha256": "8dd1c6499e9bf51d40021d05a5c7aee5bff25aafc6dcc78ec20e76a254f3aa37",
+      "duration": 1.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "429a53c77857b5a367e4b36109c31e350bb9d850e53f7ff0b1e9779ebb1bdf6f",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks on this principal feast of our communion, when the holy spirit was poured out upon the gathered church, making many tongues one praise and many gifts one mission.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9a8dd823e04ca26cab7431ab.opus",
+      "sha256": "acd009543a9df421cb4d222c01dab280121b44929cb4b39afb24a4630cb9b4cd",
+      "duration": 12.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9a8dd823e04ca26cab7431ab05b1ca074ccced2b5170b4818366f26c1de866bd",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks through christ, the light revealed to the nations, in whom your saving grace reaches beyond every boundary and calls all peoples into the communion of truth and love.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f01cac6db48568dcb40bbd68.opus",
+      "sha256": "2b3fa89759e83092ab55e8741e50dd521bdcf59a26c8c3c47440a1e3cd458979",
+      "duration": 12.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f01cac6db48568dcb40bbd6821484129ad75d57a1a0038851c650fd8056c968c",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks through christ, who calls us to prayer, fasting, mercy, and repentance, not for humiliation but for healing, freedom, and renewed participation in divine life.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e731486d13cc3d4d826d3aeb.opus",
+      "sha256": "830e5c37dafb66f40b4c5968a66e19dfa16e6b52a89c33589f0c6d366beeb8a3",
+      "duration": 16.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e731486d13cc3d4d826d3aebafd2c34f3cdad5614656e533bebd222dbbe33690",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks through christ, who feeds his church with his true body and blood, uniting us to his once-for-all self-offering and giving us the medicine of immortality.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/519dbbddc2686680105cc718.opus",
+      "sha256": "2c4633565a06d8addc30844fe2ed7dc490367d7ce03a3cb18c435755a5d59c72",
+      "duration": 12.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "519dbbddc2686680105cc7185decfe05a2bf7d0701c36c30270078ab2784a131",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks through christ, who sends us in the power of the spirit to grow in holiness, practise mercy and justice, and bear faithful witness in the ordinary work of love.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/cd4d6459827b69756fea545f.opus",
+      "sha256": "c0aeec96152aa864de7ff5e49d42944bfe4b248cfe38e14116e477ac2b4ba0fd",
+      "duration": 14.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "cd4d6459827b69756fea545f521d06ba4ddb74dfca55effe636e0d3a9b684800",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks through jesus christ our lord, who entered the depth of human suffering, exposed the violence of sin, and by self-giving love overcame the powers of death.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e6ad9db6150298755434ae8b.opus",
+      "sha256": "e608d649749cbb300b497f776a2883cd7f6499e44b3d3a85ea7794efb822b72c",
+      "duration": 12.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e6ad9db6150298755434ae8be9ca2b67bfd5e5a29eca74ddd616c1e9c51463a8",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks through jesus christ our lord; for the eternal word took our flesh, revealing the goodness of creation and the dignity of humanity, that what was wounded might be healed from within.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/be0b5af833125c6d9fb597e9.opus",
+      "sha256": "dab6774b5f6f3664d0971682e68dbadf9b9b1efa9414d78c972f049337b32075",
+      "duration": 15.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "be0b5af833125c6d9fb597e9b8e1a4899650ba2d63a667e222bd6f5b79c8d323",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks through jesus christ, whose kingdom is not founded on domination but on truth, self-giving love, justice, mercy, and the final destruction of death.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/fc8e55a5433e6c3d8a26303f.opus",
+      "sha256": "42ba2e07f19df65b1d9415a57914b9db57f591ec0bebed564e5b26997f9843d8",
+      "duration": 13.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "fc8e55a5433e6c3d8a26303f3e55ba7ae32fe2f24d5066b3ad46c6bfc074e118",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks through the risen christ, who has ascended in glory without abandoning the world, and who sends his church into every place as witness to his kingdom.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/35552c4a4e7f89d193f739f9.opus",
+      "sha256": "68da707c443356f64641fdaa93b5d3f97cdaf7437e9cf8bb92364319ef61b31a",
+      "duration": 12.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "35552c4a4e7f89d193f739f95e21ec398f24da51e6f9ae204932ac34eefcf527",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks, father almighty, through jesus christ our lord;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3be39857bc769cd355612250.opus",
+      "sha256": "42a5827f2fcfb02352db571a26bdba49f8ff76a86bf38480eb478f7ee1058a58",
+      "duration": 5.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3be39857bc769cd35561225017ab5eb4a1b2239de18db9ab152e82a71af6738c",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks, for you train your people in hope, wisdom, and holy discipline, preparing us to enter the paschal mystery with honest hearts and freedom from fear.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/0140a9845c0dbca3f9c0bcd0.opus",
+      "sha256": "216ce42754daf22bbb235ca843852abcb5214defb189cd65a0419be43b55bc6b",
+      "duration": 12.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "0140a9845c0dbca3f9c0bcd0ad5b4cb258812b0995e520a7ccd458c81f69dd3f",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just to give you thanks, one god, father, son, and holy spirit: three divine persons, one undivided nature, glory, will, and action, eternally blessed and worshipped. and so, with angels and archangels and all the company of heaven, we proclaim your glory, saying:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ccf240c006ec10c33bd77cab.opus",
+      "sha256": "d8dd764c3c050a8c388a903509e1e681503c0356b109a81f568e9f5cc284ba69",
+      "duration": 21.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ccf240c006ec10c33bd77cab3725c31c3ec0cde6a563aeb6a4509f31faa8f5f6",
+      "priority": "daily-stable"
+    },
+    "it is truly right and just, our duty and our joy, to praise you above all in this season, when christ our passover has been raised. in him death is defeated, creation begins anew, and the great hope shines before the world.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d51db4c5415484f99165a949.opus",
+      "sha256": "ca7932755fe9e4d90c9770876a47a92496a1c2e3da0c1846307850d912de8f17",
+      "duration": 15.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d51db4c5415484f99165a94986f2801e9cafac9ed51fdd99de7043eb1390b5a7",
+      "priority": "daily-stable"
+    },
+    "it is truly right to bless you, o theotokos, ever blessed and most pure, and the mother of our god. more honourable than the cherubim and beyond compare more glorious than the seraphim, without corruption you gave birth to god the word: true theotokos, we magnify you.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a2726e37ab10c602ffe95a7d.opus",
+      "sha256": "cceb06291f62ce1b9b91d25ee6a303a0fa45698c15fb7cf350cecb8267eb83c6",
+      "duration": 17.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a2726e37ab10c602ffe95a7d76980d8f88866b8d9e746a4ed690f86eac5a1515",
+      "priority": "daily-stable"
+    },
+    "it is truly right to give you thanks, holy father, almighty and eternal god, through jesus christ your son, in the holy spirit.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8c622c8380b329a246156ca5.opus",
+      "sha256": "7c9106da7a054ff191c36e1fccaefe3551424c72e7642af3e3b6267dbd798e84",
+      "duration": 8.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8c622c8380b329a246156ca52ae77d56c6f86b2904e8ac25c61c8bc194397708",
+      "priority": "daily-stable"
+    },
+    "judge us in truth, heal what sin has wounded, purify what must be purified, and keep us from presuming to define what you have not revealed.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/eb8a3622b4f0e0f79c8e7b38.opus",
+      "sha256": "103470eb69b3295e526cdbdf54e893c8fe0885857012230ae10ce8deac944489",
+      "duration": 9.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "eb8a3622b4f0e0f79c8e7b38fbf14c5b707acc20be992423e3ea1ce56d3a58b3",
+      "priority": "daily-stable"
+    },
+    "keep me as the apple of your eye.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b5a026d24bf3941d5d00c119.opus",
+      "sha256": "ab0fc8edb56dc030fcf4ca1b089e281dd588922fe422cb4d81bd8c977cb67c17",
+      "duration": 2.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b5a026d24bf3941d5d00c119b6a2a997d89fa2ef89915d84de3450f4e1bfbf76",
+      "priority": "daily-stable"
+    },
+    "keep watch over us, o lord, while we wake, and guard us while we sleep; that waking we may remain with christ, and sleeping may rest in peace.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/72d0dbd558189727771adf66.opus",
+      "sha256": "67c22ddf8700e3d7e143da083f8071c76ce6941b63256ddc9e0a21225f04bd9b",
+      "duration": 10.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "72d0dbd558189727771adf66bfdfadde71d9d9ecdd3b2e3548453b14b633076a",
+      "priority": "daily-stable"
+    },
+    "lamb of god, you take away the sins of the world: have mercy on us. lamb of god, you take away the sins of the world: have mercy on us. lamb of god, you take away the sins of the world: grant us peace.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/80141956b561f6a4cc69de0f.opus",
+      "sha256": "1b9a975c66345b575ae19355d9997192f872ae20a0849ce1ca474685ed65f40a",
+      "duration": 18.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "80141956b561f6a4cc69de0f20ecdfe1b7c5f13241b09f17ae9a88fdecd593da",
+      "priority": "daily-stable"
+    },
+    "let us all say with our whole soul and with our whole mind, let us say:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/85d1c342bb332de77bd95cc4.opus",
+      "sha256": "a0fbe3ef4c387d146d173af08eb01cdd31e300d84e7b14cb00f132b9f3e6ca31",
+      "duration": 4.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "85d1c342bb332de77bd95cc451d08365552d1e1dfb1affd0b6197ed5ca077594",
+      "priority": "daily-stable"
+    },
+    "let us bless the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/75ba1582710cb0332f869c37.opus",
+      "sha256": "557c24da0c9e7f71b6c340ff77c6a68a9cd6f9457c62f0c03403664ccbfad2e2",
+      "duration": 1.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "75ba1582710cb0332f869c37dae3f3a7181acb71e096cdb9366f702e0cce0838",
+      "priority": "daily-stable"
+    },
+    "let us complete our prayer to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a3c9e92a3d7ac805cbb35594.opus",
+      "sha256": "7a1785e836f947d84847cf5cc125cfdb2551eb46e2654a14f9a2768279510447",
+      "duration": 2.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a3c9e92a3d7ac805cbb355944da83b322e6e10aa1926c6a6bd8b93477b537253",
+      "priority": "daily-stable"
+    },
+    "let us give thanks to the lord our god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d07822ff44f30fac3138263c.opus",
+      "sha256": "be210e096f49fc357aed0d9f7a5bde29fe9a8b2a5bb2d4f68da8ccb40fec7ef5",
+      "duration": 2.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d07822ff44f30fac3138263c5144d387a9ec9c31a84d2bfe555b3f48d3338832",
+      "priority": "daily-stable"
+    },
+    "let us give thanks to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7b2860175f11c0e73177f87a.opus",
+      "sha256": "faf5376f37c1b72b34da9678e4fb14309fb41e25f9ca31e237c791a8f3fb937f",
+      "duration": 1.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7b2860175f11c0e73177f87a66197c5913758044a7ca30767a45e8a92339a6f9",
+      "priority": "daily-stable"
+    },
+    "let us lift up our hearts.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/6a8cd6f801592b374631e0bd.opus",
+      "sha256": "3aaaaa420b8408ad975c842e0f4257fa0bdc7e6866253b8368dcbaa04741f3a8",
+      "duration": 2.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "6a8cd6f801592b374631e0bdd8f742c0445ceb756ae5afe9f9a8901a2c722c55",
+      "priority": "daily-stable"
+    },
+    "let us love one another, that with one mind we may confess:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3a291d32ee8f926d5312efb3.opus",
+      "sha256": "91e628a59c115040c060558faa889ceb26596067391dde3590c2435ed337dc01",
+      "duration": 4.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3a291d32ee8f926d5312efb37a0f0e1be9065033d7f59a26f547428132e2bf19",
+      "priority": "daily-stable"
+    },
+    "let us offer one another a sign of peace.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e1bde627c98bdc7d0d17e65a.opus",
+      "sha256": "30a04d592d6207f1609d036b808e4501b5d151186a78329f32cf1a8eef56c5a1",
+      "duration": 2.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e1bde627c98bdc7d0d17e65a90372a2849b5d9a05e58c43c000533cf9549365e",
+      "priority": "daily-stable"
+    },
+    "let us pray.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/59a87e651a2f9a08dbefb60e.opus",
+      "sha256": "9ee20e8dc0b3da7762de9da64a1a31408e3dd27b96c133a6c5b2a20b322448d2",
+      "duration": 0.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "59a87e651a2f9a08dbefb60e054fde7df99b87a4015329edb7120e5a9fc06fbb",
+      "priority": "daily-stable"
+    },
+    "let us stand aright; let us stand with fear; let us attend, that we may offer the holy oblation in peace.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a25105dc400edd1f57e04ef8.opus",
+      "sha256": "02bca1f0fe7f9f0613f91a0945cb47579a854db1b5d89f92613a1fabac79f76b",
+      "duration": 6.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a25105dc400edd1f57e04ef85985faea9dd58e294bfc10aac6b5712cbc7542e8",
+      "priority": "daily-stable"
+    },
+    "let us who mystically represent the cherubim, and sing the thrice-holy hymn to the life-giving trinity, now lay aside every earthly care, that we may receive the king of all, invisibly escorted by the angelic hosts. alleluia, alleluia, alleluia.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c3cd6c29f9d1f3bba500b5f2.opus",
+      "sha256": "9b7b976c552b7006186f2a1d803f350311e509ec95e907fb1851d6f462435a51",
+      "duration": 19.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c3cd6c29f9d1f3bba500b5f2018268e31d94801fada1fc7413b44371edfbde70",
+      "priority": "daily-stable"
+    },
+    "let your healing presence surround them.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/65d8147e42af265fa6599793.opus",
+      "sha256": "4e24cab046aa89317bdf37f36b64260c9a9d1ab8af9d283f5937fb4132d91b00",
+      "duration": 1.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "65d8147e42af265fa6599793aaadf8903a4a537b24892fea3e989abd91b0afc3",
+      "priority": "daily-stable"
+    },
+    "let your mercy be upon us, o lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ff05132e17eab1250593ab7f.opus",
+      "sha256": "2c7417aec950c270599cc24f3b265e6c86e302fd078a0493fbf80f1090db90a2",
+      "duration": 2.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ff05132e17eab1250593ab7fa487188b3433206a040646f8d8246a434cc227be",
+      "priority": "daily-stable"
+    },
+    "lift up your hearts.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e043c7927d31bc78c631762f.opus",
+      "sha256": "4a79e4e2987f6897734238b3d598f8dcbe8e624741b934d4d80bad624bcfe5b0",
+      "duration": 1.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e043c7927d31bc78c631762f9cd17de532c55b770b473c7b842344369eb3368b",
+      "priority": "daily-stable"
+    },
+    "light of light, true god of true god; begotten, not made; of one essence with the father; through whom all things were made.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5ce3d7db1f5f865dc58429e0.opus",
+      "sha256": "b54e7c710234b830f12ca051d2005f7084767c22e37bbafcb7c6c24c20c10c09",
+      "duration": 11.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5ce3d7db1f5f865dc58429e0eeaf29c89e8c9aa35e918f67a2463d43b2348026",
+      "priority": "daily-stable"
+    },
+    "likewise after supper he took the chalice, saying: drink from this, all of you: this is my blood of the new covenant, which is poured out for you and for many for the forgiveness of sins. do this in remembrance of me.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/0ef05310ae5cdba7677425c6.opus",
+      "sha256": "adf0e1f57d1ad20cf45472b430b521d6a4036dadd35eb8d88363444ef3361d6f",
+      "duration": 17.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "0ef05310ae5cdba7677425c6b873647fda47c96b73a96cbed3e82e4f49fa1364",
+      "priority": "daily-stable"
+    },
+    "likewise, after supper he took the cup; and giving thanks, he gave it to them, saying: drink from this, all of you:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/04493b568cdc80b4fd9852c2.opus",
+      "sha256": "51e6fb0412575afc623efafa0c5d86402f2b4c79b8cc2e6d79a822c0ea90cc77",
+      "duration": 7.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "04493b568cdc80b4fd9852c23f63d61dff28a2948667bb55ce77b4acb9836792",
+      "priority": "daily-stable"
+    },
+    "look upon them with a gracious and serene countenance and accept them, as you accepted the gifts of your righteous servant abel, the sacrifice of abraham our father in faith, and the holy offering of melchizedek your priest.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/152234c88217c0264d315a40.opus",
+      "sha256": "2a59ef144babf43a34dab0c4a6b888acd8d73b0fe55da583eb1a032b1364e70d",
+      "duration": 14.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "152234c88217c0264d315a405691a6bc2475dd0ceba211f530efa5858de77ac6",
+      "priority": "daily-stable"
+    },
+    "lord jesus christ, only-begotten son, lord god, lamb of god, son of the father, you take away the sins of the world: have mercy on us; you take away the sins of the world: receive our prayer;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5dadfaa56fae99df3031739d.opus",
+      "sha256": "e1b1b8e611bfcb6594b0cb19cbc9751b6ab7ec9379362af7a9cf23b860be4103",
+      "duration": 18.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5dadfaa56fae99df3031739ded040be2e1d4aae7d00f9d92591bf6ea7e24e206",
+      "priority": "daily-stable"
+    },
+    "lord jesus christ, son of the living god, who by the will of the father and the work of the holy spirit through your death gave life to the world:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5de5541dd32726c523512462.opus",
+      "sha256": "0f9fcb2981a5edc7c0ee47ed357bb774e08304060ef2b12c2f79e637cfb8b80a",
+      "duration": 9.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5de5541dd32726c52351246296a14626b121ec32d834dbdf145e709f91048eb7",
+      "priority": "daily-stable"
+    },
+    "lord jesus christ, who said to your apostles: peace i leave you, my peace i give you; regard not our sins but the faith of your church, and graciously grant her peace and unity according to your will; who live and reign for ever and ever. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/87dbe09dafd152be96f27bf5.opus",
+      "sha256": "75ef6bc8d1f73bb65ffc4459fea5ca40dc6bc8738bb3df39e952150333edcc2f",
+      "duration": 16.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "87dbe09dafd152be96f27bf58c498edc5556b77852db4c37ded54594db0492a5",
+      "priority": "daily-stable"
+    },
+    "lord, i am not worthy that you should enter under my roof, but only say the word and my soul shall be healed.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a0a924109c94fd69dd278db8.opus",
+      "sha256": "9d2485813adda5d3043f0b4affe1790f4251c99fb88599b2f3fc2bbc23191b53",
+      "duration": 7.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a0a924109c94fd69dd278db87a7ac99e6b94398add3bc4fb921956226a883d0b",
+      "priority": "daily-stable"
+    },
+    "lord, i am not worthy that you should enter under my roof, but only speak the word and my soul shall be healed.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/65b2b62b993ab7bff68bdde1.opus",
+      "sha256": "f76a0dfceede7ab7fd23e807091bfb96331fb34073c9de01be94154b527ad430",
+      "duration": 7.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "65b2b62b993ab7bff68bdde1f8ca27f4f90db3cb211253f3ee6dd187afee864e",
+      "priority": "daily-stable"
+    },
+    "make this bread and wine for us the holy body and blood of christ, the pledge of resurrection and the foretaste of creation made new.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/399798a3491e4848ef9b8329.opus",
+      "sha256": "08415696f6126bb7313be567335b2e53e6a7c14e8002fddc9955f6e3250c5a51",
+      "duration": 7.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "399798a3491e4848ef9b832945897e2a6b785c753dcbc93d972ebd20e05483d2",
+      "priority": "daily-stable"
+    },
+    "make us servants of reconciliation, justice, and mercy. remember the poor, the suffering, those who have no one to pray for them, and all the departed.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a2c02c5e7636097f9d70f014.opus",
+      "sha256": "aa55083ce5b1bede85a441b5cb4c284da31cb9bc4c82e098df36e09c42ac1f89",
+      "duration": 10.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a2c02c5e7636097f9d70f0140476d4a794098e928e2839d0ef00ea9fbac82d85",
+      "priority": "daily-stable"
+    },
+    "may almighty god bless you, the father, and the son, ✠ and the holy spirit.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8c29d54980767e5f2853fd4d.opus",
+      "sha256": "83d647883aa1e42265524cf33ba3699744f27e8a2fa4ddc9a361605b994a7008",
+      "duration": 5.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8c29d54980767e5f2853fd4d36ea56cd5cf138b1fb926e6e9861a6cb195870f6",
+      "priority": "daily-stable"
+    },
+    "may almighty god have mercy upon us, forgive us our sins, and bring us to everlasting life.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f3f76dfbc881757859eef42d.opus",
+      "sha256": "4860bb798728de9d369dea2d95539182e04e49245a1d47cb95ef3b50a4f8b09f",
+      "duration": 6.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f3f76dfbc881757859eef42d1f7decc8a8fbc893085ca73995745432701ed9b6",
+      "priority": "daily-stable"
+    },
+    "may almighty god have mercy upon us, forgive us our sins, and bring us to everlasting life. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f3a4dd257580195d45eeb99a.opus",
+      "sha256": "6e59875d3c374c384ae095139c577b61b90eeb15fac895c0f85be731127fc015",
+      "duration": 7.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f3a4dd257580195d45eeb99a5d4abfb2b97b94461ad73b238bbe5f6043b11ff9",
+      "priority": "daily-stable"
+    },
+    "may it bring them honour and us salvation, and may those whose memory we keep on earth intercede for us in heaven. through the same christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/cbfbb3850d8998c0e82a13ad.opus",
+      "sha256": "06dba8260761615faeb80d1e089c250890c019dca6b289c8df52b54a15b330bf",
+      "duration": 11.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "cbfbb3850d8998c0e82a13ad0c22e582cc7f95f6392aa0b881e57ab4f512e67a",
+      "priority": "daily-stable"
+    },
+    "may the god of hope fill us with all joy and peace in believing, through the power of the holy spirit. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/0f91863f03bf9948e30a9ccf.opus",
+      "sha256": "0572f6e0bec20e384bfc46efc50904656f9450b8be94875e3b9bb9444b0ce4a6",
+      "duration": 8.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "0f91863f03bf9948e30a9ccfdc818a29f356a34cac52af89dc1f08e46c08911d",
+      "priority": "daily-stable"
+    },
+    "may the god of mercy forgive us, free us from the power of sin, and bring us into the light and life of christ.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/08a4e23dab77449f5a6533fb.opus",
+      "sha256": "759770cfc4cb356eddceea45336a958079a95a4b46767f18bca56a8e82d2dc1f",
+      "duration": 6.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "08a4e23dab77449f5a6533fb6019a49e329ea8953857b71d9e3c7daa18a68725",
+      "priority": "daily-stable"
+    },
+    "may the god of mercy forgive us, free us from the power of sin, and bring us into the light and life of christ. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/1c13d208cd4ae9d0ab6ddf41.opus",
+      "sha256": "ecf65051c65aed1887519a426e8047ef7f2c4dd4d5ae03f6d4a93a6481f93a01",
+      "duration": 9.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "1c13d208cd4ae9d0ab6ddf41bc12816672f1d943eebc69c9fa0a38a227b6115f",
+      "priority": "daily-stable"
+    },
+    "may the lord receive the sacrifice at your hands, for the praise and glory of his name, for our good, and for the good of all his holy church.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/feac285372c888deb61c40ce.opus",
+      "sha256": "5994f96a2e834db9092adea46c3d2ff67a0eebe0ab182af8f660451a052bea60",
+      "duration": 9.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "feac285372c888deb61c40ce6ed80d6ecb21230ff348ff500375a97ab4fba0c1",
+      "priority": "daily-stable"
+    },
+    "may the lord receive this offering from our hands, for the praise and glory of his name, for our good, and for the good of all his holy church.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f9f82995a35855e0788d2cf8.opus",
+      "sha256": "ae2b5c4c827a356ebcff31cac8deb184be3813f3d8fab7eb093d7aa3683834fe",
+      "duration": 8.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f9f82995a35855e0788d2cf8f8b3fa855ff10a4f548c9bcf1c63b130f5d5c680",
+      "priority": "daily-stable"
+    },
+    "most merciful father, through jesus christ your son our lord, we humbly pray and beseech you to receive these gifts and offerings which your holy church presents in thanksgiving. remember your church throughout the world;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/09ad7881dcbd13262d08abc9.opus",
+      "sha256": "4f69ee3f1557da09727c9126837eaa36845282e865d819428fc3149a81758269",
+      "duration": 13.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "09ad7881dcbd13262d08abc95dc24e4833b94e7a20baecad10d1cee70aae6418",
+      "priority": "daily-stable"
+    },
+    "most merciful god, we confess that we have sinned in thought, word, and deed; in what we have done and in what we have left undone. we have not loved you with our whole heart;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/db02ef929ba0eb4df4bbc568.opus",
+      "sha256": "8c6c669b2eb3cdac32bb5ea972b67c500b1a7a40e2c6d0177a85bcc6d3e65c56",
+      "duration": 13.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "db02ef929ba0eb4df4bbc5687f1980eeb7acdbe6fd6ea60ad0494361ac34dc66",
+      "priority": "daily-stable"
+    },
+    "most merciful god, we confess the sins of this day and the ways in which we have failed to love.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/5acad954e0bdb9d07a1866fe.opus",
+      "sha256": "0da5eb4beed4c6970bf6e6d47db865673a49697c5ff2c76f0173b7c4b7297174",
+      "duration": 6.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "5acad954e0bdb9d07a1866feb253e8325878d638afd7f04ed199e2ae206be797",
+      "priority": "daily-stable"
+    },
+    "my soul magnifies the lord,; and my spirit rejoices in god my saviour; for he has regarded the lowliness of his handmaid; behold, from henceforth all generations shall call me blessed. for he who is mighty has done great things for me,;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/48c5f64c453f022f3b49df5c.opus",
+      "sha256": "ec33c2e7a500cf2b1859a3ccd42817756f3022d398fe350c1deac5d65b74a946",
+      "duration": 16.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "48c5f64c453f022f3b49df5c724b98a54eaa3c03bd4cd8cb9452709d682221fc",
+      "priority": "daily-stable"
+    },
+    "now you dismiss your servant, o lord, in peace,; according to your word; for my eyes have seen your salvation,; which you have prepared before the face of all peoples: a light for revelation to the nations,; and the glory of your people israel.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c6fff3cd0b6fd1f3f717b8c6.opus",
+      "sha256": "f01f11c6acbc8fdcee3a5d43d7e9344d0f5b99000eecffac50fb2d7399754fca",
+      "duration": 16.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c6fff3cd0b6fd1f3f717b8c652ed10c5f120749fd8df74198c6d36666a7f1f88",
+      "priority": "daily-stable"
+    },
+    "o god, father of mercies, your love called creation from nothing and your faithfulness does not abandon the work of your hands. though sin wounds and death casts its shadow, you have not surrendered the world to corruption.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/fc429b517ca246294ba03b0d.opus",
+      "sha256": "55fbe46a54c5b6910f9979dfb20771ebec50db0b220a37009fa771dbf0ee8e2c",
+      "duration": 14.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "fc429b517ca246294ba03b0d1f422fe5772f5b534259fc7870ec312194be0a53",
+      "priority": "daily-stable"
+    },
+    "o god, from whom all holy desires, all good counsels, and all works of justice proceed: give to your servants that peace which the world cannot give;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c3bb4e4dec1569f703e4e16c.opus",
+      "sha256": "a01b909b0ca0c1500f7ace3afac79c0ad7549ddc3b9f996f15ae3cb8299cb80f",
+      "duration": 10.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c3bb4e4dec1569f703e4e16cec747ac42bd1bd2087dc6b25a7dbca0ec4c6bfb9",
+      "priority": "daily-stable"
+    },
+    "o god, make speed to save us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9628988a977b2f9bbc65d03c.opus",
+      "sha256": "eafb0c6334cbbbbbeb60c813dfe01688f961039178053ab2db25a022c249f8d4",
+      "duration": 2.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9628988a977b2f9bbc65d03c52e2b92e5fe90d5a96515e7612be483ba58689c4",
+      "priority": "daily-stable"
+    },
+    "o god, the source of light and giver of every good gift, bring us safely through this day. direct our thoughts, words, and works; make us attentive to the needs of others;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/cbb8bfa8f7969197cb257296.opus",
+      "sha256": "0619d2f5355084d686da945ef68bb4374c83df45b6b729a0ee5efb2ca147be83",
+      "duration": 12.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "cbb8bfa8f7969197cb2572963ddc82273cdf9b264b3983622204a495c35ffacc",
+      "priority": "daily-stable"
+    },
+    "o god, who wonderfully created the dignity of human nature and still more wonderfully restored it:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3f84f37df4977156e1f9be30.opus",
+      "sha256": "9629d5341d675ba2f288901b47e56865061c6021d6f88d126bc88948ef92871e",
+      "duration": 6.4865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3f84f37df4977156e1f9be30b5f62bf70dff416e651bdf1a5ca05156e9598953",
+      "priority": "daily-stable"
+    },
+    "o lord almighty, god of our fathers, we pray you: hear us and have mercy.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/6ab58b66eed2af46df2ae080.opus",
+      "sha256": "0c59e637fe48f89b39efb20a9a22dfa22aa1c9aa3c69ad9853ff6b8fcbdd0923",
+      "duration": 5.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "6ab58b66eed2af46df2ae080444cfcce11309b68e139c82097ec7559f82ddf94",
+      "priority": "daily-stable"
+    },
+    "o lord, make haste to help us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b6c2dd9bc44d0f63b58b5c09.opus",
+      "sha256": "dbe5783e5fe4df47ae81650cd2bda1d557174408843cf7f7bb363f9e40252217",
+      "duration": 2.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b6c2dd9bc44d0f63b58b5c0941c61bfe2086d4b4f4f62af828a38da70095db77",
+      "priority": "daily-stable"
+    },
+    "o lord, open our lips.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7b5e099e13eec911e4437a51.opus",
+      "sha256": "b8da66ea0f262fbc584a7d1fb22250e271f18b20f9926022550eb6e5531c43b9",
+      "duration": 2.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7b5e099e13eec911e4437a513aee2f58c19ea5d33ff0613e254e3d307ad88ff4",
+      "priority": "daily-stable"
+    },
+    "on the night before he suffered, jesus took bread, gave you thanks, broke it, and gave it to his disciples, saying: take, eat: this is my body, given for you. do this in remembrance of me.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d54f9a2f69be25f94a29c584.opus",
+      "sha256": "75f06a42a61dfc3db8e768c9534c6d4e5479bd1722c1470b58d5068efca78c0d",
+      "duration": 13.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d54f9a2f69be25f94a29c5847a6d72ad20572f52e5c8f28c8042008795e816bb",
+      "priority": "daily-stable"
+    },
+    "one is holy, one is lord, jesus christ, to the glory of god the father. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/af5f5125ba0ce467d30d0edf.opus",
+      "sha256": "dbbffa1f8a6587f318190d71b4788ab3be8e1851c928b2d05b26d201e87e1d44",
+      "duration": 6.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "af5f5125ba0ce467d30d0edf2eb849b783d83dc4aead894c5af6540d9b0c81eb",
+      "priority": "daily-stable"
+    },
+    "only-begotten son and word of god, immortal as you are, you humbled yourself for our salvation, taking flesh of the holy theotokos and ever-virgin mary; without change you became human and were crucified, o christ our god, trampling down death by death.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/36f55936ca30fbb23a208360.opus",
+      "sha256": "e3ce3da23f03292f5e34b595c98b9385a90c9af30e584af0d52d0025d469858b",
+      "duration": 17.6465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "36f55936ca30fbb23a2083608d5dbc39c02fac568992dd81a17361141b230721",
+      "priority": "daily-stable"
+    },
+    "our father in heaven, hallowed be your name; your kingdom come; your will be done, on earth as in heaven. give us this day our daily bread. forgive us our sins, as we forgive those who sin against us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2c2b2ebeb6ea2be0abbd18c7.opus",
+      "sha256": "3597656cf5fa110587bdf8f7cc8cf47063b9463437e1dff44b049751752b07ab",
+      "duration": 15.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2c2b2ebeb6ea2be0abbd18c795b3909bf043833a9227f17475bf1c8cf5f455e1",
+      "priority": "daily-stable"
+    },
+    "peace be with you all.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/33ce16738d0acf66a072cdbc.opus",
+      "sha256": "301bc1726eb1f0c8ddb1df8cfd8372d7eaca830ad9c6e940a3c247e8ced799a0",
+      "duration": 1.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "33ce16738d0acf66a072cdbccae3661d5e188727e9024e56b7164448f58db804",
+      "priority": "daily-stable"
+    },
+    "people of god, bless the lord. servants of the lord, bless the lord; spirits and souls of the righteous, bless the lord. let us bless the father, the son, and the holy spirit; praise and exalt god above all for ever.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/243645a8a82e7ba58836fecf.opus",
+      "sha256": "a130d90b6c871b000fcbbcccc820cbd458ee40dc1911086c952bc24b0b3a8d0d",
+      "duration": 14.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "243645a8a82e7ba58836fecfcbe244c1e5f70e912f669311f1f2cc467ced94c0",
+      "priority": "daily-stable"
+    },
+    "pour out your holy spirit upon us and upon these gifts. as the spirit was poured out at pentecost, kindle your church in faith, prophecy, healing, wisdom, courage, and love.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8c1ba3c46aa036075dc0641a.opus",
+      "sha256": "dbb6dbef0fa747c6e0e152dbd2a2444e2bd28fa3eec8ff8f7e77c0126c4447d8",
+      "duration": 13.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8c1ba3c46aa036075dc0641a7ded9035d62c3b7b7b87f709f29f3317af2dd072",
+      "priority": "daily-stable"
+    },
+    "pray, beloved in christ, that our sacrifice of praise and thanksgiving may be acceptable to god, the almighty father.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f1e9a0514975a21f4d3c1401.opus",
+      "sha256": "3a87cd0cec29394a1ef942f688fc7f8c532c5d3ebe8a0b42da56119dce6c8b5b",
+      "duration": 7.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f1e9a0514975a21f4d3c14013efcda42352099caa0c65b15ed517fe6be47c898",
+      "priority": "daily-stable"
+    },
+    "pray, beloved, that my sacrifice and yours may be acceptable to god, the almighty father.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b83495a75a1b03851137e50e.opus",
+      "sha256": "a136c052d2b3068842428fc381f4485dc5e9de4413eb379ec5f08362f00689cd",
+      "duration": 5.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b83495a75a1b03851137e50edf74b1deb5037df142bb75755d99dc0582d4539a",
+      "priority": "daily-stable"
+    },
+    "preserve her in peace, unity, and apostolic faith; remember our bishop, the apostolic witness, and all who bear responsibility for your people.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7b1b686b37f1a199e8fe47b5.opus",
+      "sha256": "9872788d4ddf0b3d617eda5cd2436430fee989e82cc96517663ad869b3f9e526",
+      "duration": 11.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7b1b686b37f1a199e8fe47b57f16406a09360580351d8ca418e6dd64c975b30f",
+      "priority": "daily-stable"
+    },
+    "rain and dew, bless the lord; winds of god, bless the lord. fire and heat, bless the lord; cold and frost, bless the lord. nights and days, bless the lord; light and darkness, bless the lord. mountains and hills, bless the lord;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/99e0606e4f6ffb32fdc59c0b.opus",
+      "sha256": "1d8874c030b4396c141e657b1de0a9d56d303e7ee27055f120b00e7a114ad3f0",
+      "duration": 18.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "99e0606e4f6ffb32fdc59c0b76831b7db4e7a437de0dc663ce927e4ba1970c1d",
+      "priority": "daily-stable"
+    },
+    "receive, o holy father, almighty and eternal god, this spotless offering which i, your unworthy servant, offer to you, my living and true god, for my innumerable sins, offences, and negligences; for all here present;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/837c4291b434340ceae1c3e0.opus",
+      "sha256": "4c32cddc0987c48c709f0fe375add9926f7daa1018bad15138f527f877a773f4",
+      "duration": 17.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "837c4291b434340ceae1c3e0a48267dea329dfca9343f42e0c37b2f2347d483d",
+      "priority": "daily-stable"
+    },
+    "receive, o holy trinity, this offering which we make to you in memory of the passion, resurrection, and ascension of our lord jesus christ, and in honour of blessed mary ever-virgin and all your saints;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/15ec0c58e0fa5a44e7be9e0f.opus",
+      "sha256": "c8ab346c526e3da77539ec3d59e741f953c83216b8144b5a529e319194b8809d",
+      "duration": 13.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "15ec0c58e0fa5a44e7be9e0f7ed3a0ec8734050262b48e0dbd240892ff731c42",
+      "priority": "daily-stable"
+    },
+    "remember also, o lord, your servants who have gone before us with the sign of faith and rest in the sleep of peace. to them, and to all who rest in christ, grant a place of refreshment, light, and peace;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2c41f9311c9cce1cb67e287c.opus",
+      "sha256": "ccc96cbb4b694ab2d7dc804956434fcc4e4ac94ff1b6bfeb97813107f24a623d",
+      "duration": 16.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2c41f9311c9cce1cb67e287c4600517929e8638f38ff04e3086d42dca7b46777",
+      "priority": "daily-stable"
+    },
+    "remember those in civil authority, that we may live in peace and justice. remember the sick, the travelling, captives, refugees, the poor, and all who suffer. remember those who have fallen asleep in the hope of resurrection, and entrust all to your righteous judgment and inexhaustible mercy.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/50eb462ddf902418fa925f9e.opus",
+      "sha256": "3a229df7c137d23d305e3e7937817b543af1384fdcaa200b086597206f9ba595",
+      "duration": 23.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "50eb462ddf902418fa925f9ec936e8dd43e6f1ab5c2400b46fa15ddc753e1e60",
+      "priority": "daily-stable"
+    },
+    "remember those who labour, suffer, or are alone.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c23edb338c1b74c6b1186531.opus",
+      "sha256": "f02fa300ef662f79c1665f135fab34bb6e83a587e5b7d3325da87a8931db668f",
+      "duration": 3.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c23edb338c1b74c6b1186531d422baaf89f1b9c7dca3aa0d12d1226935475d02",
+      "priority": "daily-stable"
+    },
+    "remember your church throughout the world, the living and the departed, and all for whom we pray. bring us with all creation into the fullness of your kingdom.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8987a49fad0919b7ec0d0f5a.opus",
+      "sha256": "7baeb9c80c87e9e889d7ee5443663f0601f027741ad1b0c985f29824adc442b9",
+      "duration": 10.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8987a49fad0919b7ec0d0f5a24a48cb84c9351989c48ad56b55cdfce578c12a9",
+      "priority": "daily-stable"
+    },
+    "remember, o lord, your holy catholic and apostolic church, your bishops, presbyters, deacons, monastics, ministers, and all your people. remember the apostolic witness and our local bishop, and preserve them in faithfulness and peace.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/dc364f5d1848ceca7a8a2fac.opus",
+      "sha256": "159f63b7a428a00a66abe9516fca62eb32f516c8709276bc395a9bb84f5e9a28",
+      "duration": 16.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "dc364f5d1848ceca7a8a2fac559dda33dd1d5f3fdd5252b326e6ad44bf36815e",
+      "priority": "daily-stable"
+    },
+    "remember, o lord, your servants and all here present, whose faith and devotion are known to you. in communion with the glorious and ever-virgin mary, mother of god; blessed joseph; your holy apostles and martyrs;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2c1da917cee32980226700d1.opus",
+      "sha256": "7e2068b4e021b4487c0e63c47ac2c628aceeee72d2adf59996b9b655a7458601",
+      "duration": 15.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2c1da917cee32980226700d1a8a7cecbe81c3d4f4085b3075eeb45fc105d1aea",
+      "priority": "daily-stable"
+    },
+    "remembering therefore his saving passion, glorious resurrection and ascension, and awaiting the renewal of all things, we offer you this sacrifice of praise and thanksgiving: not another sacrifice beside the cross, but the church's sacramental participation in the once-for-all self-offering of christ.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8aa7fed1eba214dfc8521a51.opus",
+      "sha256": "a3c63c9ed18e6353c8d074cddeb550a7cfd3234e69cd760e25398b4a7c97a771",
+      "duration": 19.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8aa7fed1eba214dfc8521a5103950217d270e87470d6c23ddf31d9d44549ef9f",
+      "priority": "daily-stable"
+    },
+    "remembering therefore this saving commandment and all that has been done for us—the cross, the tomb, the resurrection on the third day, the ascension into heaven, the enthronement at the right hand, and the second and glorious coming—we offer to you your own gifts from your own gifts, on behalf of all and for all.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f8d1e15aae9a40860f235957.opus",
+      "sha256": "7e7d5960b987bcb02feacf6eb55679d6fe38236e684d93bfc7b32ab4dd57baa9",
+      "duration": 21.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f8d1e15aae9a40860f2359572003ad7fee33aae0ec0257e3decd763e5061fb22",
+      "priority": "daily-stable"
+    },
+    "sanctify your church in charity and truth, and make these gifts for us the holy body and blood of your son, that in receiving them we may be united to christ and to one another.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d5a6d2ba5d80ad3696c6ba05.opus",
+      "sha256": "a92a68c3f2c5895a27dc51c49e9ec8ce1a661991a64e2444099356f988a57cbd",
+      "duration": 12.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d5a6d2ba5d80ad3696c6ba05a78972cfb3c77904831078b1498fe7308b821a4b",
+      "priority": "daily-stable"
+    },
+    "save us from the time of trial, and deliver us from evil. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ac062b248f2e292f7b8c9daf.opus",
+      "sha256": "74238e462b7c1ca3dd1e329bb6d435439893f1f0f0dfa18c47bac3872e77961a",
+      "duration": 4.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ac062b248f2e292f7b8c9daf8b2b4523ce321b11bb2357abaff393b2f4c6d95f",
+      "priority": "daily-stable"
+    },
+    "send down, we beseech you, your holy spirit upon us and upon these gifts here set forth.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c39b30569d4abe6ee165be70.opus",
+      "sha256": "cbe6f7e18968669cc962400e7605c7aa9f0f83e7994f7d91c19406068a69398f",
+      "duration": 6.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c39b30569d4abe6ee165be70a14b4d9d3091e62dbb8c631e5a35747c165181a0",
+      "priority": "daily-stable"
+    },
+    "send the holy spirit, lord and giver of life, upon your people and upon this bread and wine.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ef0ed480e48f63294d028cbd.opus",
+      "sha256": "fd8c39960b318350fc2f1ea91a364dc1e476adea615e2d42bce82a7476d71da8",
+      "duration": 6.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ef0ed480e48f63294d028cbd87126f2db73848c3b70a44c3ac34cf7c0157908e",
+      "priority": "daily-stable"
+    },
+    "send your holy spirit upon us and upon these gifts of bread and wine. make us one in christ, and make these gifts for us his holy body and blood, food for the journey and medicine of immortality.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/44e89f6572cd32d9c4591108.opus",
+      "sha256": "65869d05b1e16948d44c6ea50aac5f3831f5da18c2de625ca65efa25b2385b6b",
+      "duration": 13.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "44e89f6572cd32d9c4591108cc603ad9fabd006e551f5281d79f005f20d787d7",
+      "priority": "daily-stable"
+    },
+    "show us your mercy, o lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7b04e231f446dda15ad9d486.opus",
+      "sha256": "c13362ee9c0bfefb07809d968bff0612d85385857a0466bd3fb9f476308ad939",
+      "duration": 1.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7b04e231f446dda15ad9d486e0a853c3b77f0fadd7eb782097e33186588ccdcd",
+      "priority": "daily-stable"
+    },
+    "stand aright. having received the divine, holy, pure, immortal, heavenly, life-giving, and awesome mysteries of christ, let us worthily give thanks to the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/22e8a17a161b52837eac8fde.opus",
+      "sha256": "6e997b623072773cdb142f83aa6df508cdedd6350a13006b3f75586503819da4",
+      "duration": 13.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "22e8a17a161b52837eac8fde75174eeda369205f0b708d6a38bde064d2550f50",
+      "priority": "daily-stable"
+    },
+    "strengthen in us the great hope, that no creature is beyond your mercy and that the final victory belongs to christ. remember the church, the nations, the suffering, the dying, the departed, and all creation that groans for freedom.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/059be0da446bddbaeb6ff8e2.opus",
+      "sha256": "96f0429a51a50b31643c3eb945f73f050151363a570ee5d393b979ebdcb791b5",
+      "duration": 16.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "059be0da446bddbaeb6ff8e2525a9433d80fb207a1522a496692e7f2f771ac09",
+      "priority": "daily-stable"
+    },
+    "take away from us our iniquities, o lord, that with pure minds we may enter the holy of holies; through christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e87b33944b2c4114f23dad8e.opus",
+      "sha256": "e4765d901327139b081ad15903bc9aad4243694039e168c133c91578cbf5d385",
+      "duration": 8.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e87b33944b2c4114f23dad8e4bd8cd87f07fdf3f4234ecc347b09b277e95a2b7",
+      "priority": "daily-stable"
+    },
+    "that he would grant us, that, delivered from the hand of our enemies,; we might serve him without fear, in holiness and righteousness before him; all our days. and you, child, shall be called the prophet of the most high,;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9dbf75cd2c429179748e589f.opus",
+      "sha256": "8e94c55534872acd5cf3642d3af8c02bf6166e6a4f6a3c8e8016283ff1897fe6",
+      "duration": 14.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9dbf75cd2c429179748e589f6b79aae3cd8e128700d48d75e2eea884c78a1244",
+      "priority": "daily-stable"
+    },
+    "that the whole day may be perfect, holy, peaceful, and without sin, let us ask of the lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/604eaa9f91ef2d131bbf314e.opus",
+      "sha256": "0353ea7de920cbabf57ea27f5d327521b19fd8e039a7296cfc0530e24a60ce41",
+      "duration": 6.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "604eaa9f91ef2d131bbf314e36ae8931029dcb1137b0528ea83ae274bb4d72ca",
+      "priority": "daily-stable"
+    },
+    "the body of our lord jesus christ preserve your soul unto everlasting life.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3986460a35720a0473417f50.opus",
+      "sha256": "f59faf9c6ec5ef93406a54d80cf12435382a7617d7ab770acb2739916ed44ed7",
+      "duration": 4.6465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3986460a35720a0473417f5083e576ad620d0669528ef054877615265ee03d04",
+      "priority": "daily-stable"
+    },
+    "the bread of eternal life and the chalice of everlasting salvation.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3dd7eb2355386f82bfcebf0e.opus",
+      "sha256": "15678c7102acac2532c20044c2e83133ba2348c098faaa95743003172d15401c",
+      "duration": 4.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3dd7eb2355386f82bfcebf0e6e5f202d1b2ea01f67e3ec671c2f5ce8eb423d4a",
+      "priority": "daily-stable"
+    },
+    "the doors, the doors. in wisdom let us attend.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b1bb603a9a46f8b87a3bb8b2.opus",
+      "sha256": "90b1571a47498db6143ec561e0782ac5d916b40024dd910ce70581768e7788d9",
+      "duration": 4.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b1bb603a9a46f8b87a3bb8b2ef63c5a1f2afad9822b3fb3df55e95a3467c1604",
+      "priority": "daily-stable"
+    },
+    "the grace of our lord jesus christ, and the love of god, and the communion of the holy spirit, be with us all evermore. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/076c3bc4ac285077116ea222.opus",
+      "sha256": "fbf9a3f8994b7e18a5f3dce93d412a26bd16a6e102f098033f7bf1f172aa33e4",
+      "duration": 9.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "076c3bc4ac285077116ea2229add7187e16d1183dda14b0e7ab41f39f91b71d0",
+      "priority": "daily-stable"
+    },
+    "the grace of our lord jesus christ, the love of god the father, and the communion of the holy spirit be with you all.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/81d0ff11fcffa03a10d6f1b9.opus",
+      "sha256": "6302f67828653b4902ba99b0b457104da0411a432d9f70f7e937f92bb15b746c",
+      "duration": 7.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "81d0ff11fcffa03a10d6f1b93a1e939de031c2ba89800ad24afb26a9c460c115",
+      "priority": "daily-stable"
+    },
+    "the grace of our lord jesus christ, the love of god, and the communion of the holy spirit be with you all.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/edefb542fb0d8a9429470716.opus",
+      "sha256": "4dda62d1f4e8a369028034980429a676048abd75e1d468f4f87baf4d771c2ba4",
+      "duration": 6.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "edefb542fb0d8a94294707169c91695d93c17073aa00d4fe79c7cfa7f2398df0",
+      "priority": "daily-stable"
+    },
+    "the holy things for the holy.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/30995f775cb9427f6f1521d0.opus",
+      "sha256": "b9c64c12de4bb602331ca07dca1ee940e2c090dd6976452a8af54d5ad481165b",
+      "duration": 3.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "30995f775cb9427f6f1521d0f4d148119117e6aeebd879da5bbd9838c73c5aa9",
+      "priority": "daily-stable"
+    },
+    "the lord almighty grant us a quiet night and a perfect end.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/02f29d680eb874603063ac4b.opus",
+      "sha256": "0064cd9cb0826280f706534c99467bb14c0b2f68deb30e2732dc54a9ef076d86",
+      "duration": 4.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "02f29d680eb874603063ac4b1c951c132da0670338e7b7400200ad73b3c34811",
+      "priority": "daily-stable"
+    },
+    "the peace of the lord be always with you.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/05c8d1803532592826a70f35.opus",
+      "sha256": "b5e91615d6688968cebd93fcd514c60e6292d5cda6c34dfd68b3b67dd48707a1",
+      "duration": 2.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "05c8d1803532592826a70f35ed3a50d57c2b7df950ebff0424ec6d0e4d83e9b8",
+      "priority": "daily-stable"
+    },
+    "the servant of god n. receives the precious and holy body and blood of our lord and god and saviour jesus christ, for the forgiveness of sins and life everlasting.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8020ad2644d42a4ee772faa7.opus",
+      "sha256": "8ef031ee17ab89a0267498ec7f894e56dd431d32e324163c0120f8563596c146",
+      "duration": 10.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8020ad2644d42a4ee772faa7a67e744004e851a71c72195c88172ce4f1b073d2",
+      "priority": "daily-stable"
+    },
+    "therefore we remember the cross, the empty tomb, the ascension, and the outpouring of the spirit. we proclaim christ's victory and await the day when death is destroyed and creation is liberated from corruption.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8b927d1dc15e8c1efe7eb268.opus",
+      "sha256": "8f9110896da2f356050ad5d9ef8d0039c473f3b0c3fe8ea56e9f52218a955c55",
+      "duration": 15.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8b927d1dc15e8c1efe7eb26847dcb874d369c51799565f876fb8f2367ada5d4b",
+      "priority": "daily-stable"
+    },
+    "therefore, o father, we ask you: send your holy spirit upon us and upon these gifts of bread and wine.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/77b62f90934a121df628a427.opus",
+      "sha256": "82b075c00343951b2a99a7a4bf3dcd81feab679c5c7a43ab65707b54c57ff98a",
+      "duration": 9.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "77b62f90934a121df628a42767176a966cd538bed4487209128b6a8fc8cf2455",
+      "priority": "daily-stable"
+    },
+    "therefore, o lord, we your servants and your holy people, remembering the blessed passion of christ your son our lord, his resurrection from the dead, and his glorious ascension into heaven, offer to your supreme majesty from the gifts you have given us this pure offering, this holy offering, this spotless offering:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/8ef3c96bbd05d0dac4ae6031.opus",
+      "sha256": "1b2f8a36ccea3bee503aceadaf657347aa553f242dce769b0946f4c61c9073a2",
+      "duration": 20.9265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "8ef3c96bbd05d0dac4ae6031c031221930b525ff175144116b1c0a3dd3d13034",
+      "priority": "daily-stable"
+    },
+    "therefore, remembering christ's death and resurrection, we offer you thanksgiving and ourselves in union with him. let all who share this bread and cup be filled with the holy spirit, healed in what is wounded, strengthened in love, and sent to serve.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/4cfe19d3ef50280e5cf8864c.opus",
+      "sha256": "1d7e7bcd9766ce17ebd3955fe0bcd68ddb1152f04e301450f384cb34a269337b",
+      "duration": 16.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "4cfe19d3ef50280e5cf8864cfb007ac25a092093f9f5628c274ebd509a9fcc36",
+      "priority": "daily-stable"
+    },
+    "this is my blood of the new covenant, poured out for you and for many for the forgiveness of sins. do this in remembrance of me.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/ba32de50a5c57ac38bc331f8.opus",
+      "sha256": "7cd5332d40ac711b18bc18ba3eb3093393f7aa37ac4b849e945bf20539275d92",
+      "duration": 7.6865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "ba32de50a5c57ac38bc331f8fadacacfd1ba39ae1657a85f8033255354a8e361",
+      "priority": "daily-stable"
+    },
+    "this is my blood of the new covenant, which is poured out for you and for many for the forgiveness of sins. do this in remembrance of me.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/89a6d956bedd5753d3da5d26.opus",
+      "sha256": "b36972ff86b804e4e4e8b4d37f2078d50b4819603e8c854d3e3b2be51c90fe39",
+      "duration": 8.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "89a6d956bedd5753d3da5d263b9dd49efbda353d56319fe1a92547ead5a8e039",
+      "priority": "daily-stable"
+    },
+    "this is my blood of the new covenant, which is poured out for you and for many for the forgiveness of sins. do this, as often as you drink it, in remembrance of me.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/84c16fd13d440debfba704ff.opus",
+      "sha256": "f60314f141fbc5f38ee55450b43a2424d87c06d2c3506ef14ea259d35191241b",
+      "duration": 10.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "84c16fd13d440debfba704ffaa32826647622ccb676b703c604c1983c8f6aeab",
+      "priority": "daily-stable"
+    },
+    "this is my body, which is given for you. do this in remembrance of me. after supper he took the cup; and when he had given thanks, he gave it to them and said: drink from this, all of you:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/a0d02b348d413a5e8db087ae.opus",
+      "sha256": "d559af30e0f0d332dcd5078578278863107a817ca446d4bea191d97cf45cbc60",
+      "duration": 11.8465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "a0d02b348d413a5e8db087ae084f1a52e261f3306ce292d9a0a54c177c5c3daa",
+      "priority": "daily-stable"
+    },
+    "this is my body, which is given for you. do this in remembrance of me. after supper he took the cup; and when he had given thanks, he gave it to them, saying: drink from this, all of you:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/df927832d7362a2cc3a65d6a.opus",
+      "sha256": "c79a584d3521cb5845f7f6d7bb3ffb33637ba8bbaed567d88a699aad4891cfac",
+      "duration": 13.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "df927832d7362a2cc3a65d6a854611202a7316d1991e50a64d0822685c37b1c2",
+      "priority": "daily-stable"
+    },
+    "through christ, with christ, and in christ, in the unity of the holy spirit, all glory and honour are yours, almighty father, for ever and ever.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/e5582931bb721316dbcac82a.opus",
+      "sha256": "5489f3b663f81506144df412975d19d71be355834ba4cf28a8c28200d6e05adb",
+      "duration": 9.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "e5582931bb721316dbcac82a9899478d22e368aa4716ad4c483a454e8d721f76",
+      "priority": "daily-stable"
+    },
+    "through him, and with him, and in him, in the unity of the holy spirit, all honour and glory are yours, almighty father, for ever and ever.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9e3ad601ab561c4f776f24ee.opus",
+      "sha256": "a6ae3486893cf2c6ff319e467d39927da588db53bb12cbba30fddf86eb07a54b",
+      "duration": 10.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9e3ad601ab561c4f776f24ee501b44398abf02de4ad43954c85c36c2147d5c09",
+      "priority": "daily-stable"
+    },
+    "through him, o lord, you create, sanctify, fill with life, bless, and bestow every good thing. through him, and with him, and in him, in the unity of the holy spirit, all honour and glory are yours, almighty father, for ever and ever.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/71573c85f6fb662296f21091.opus",
+      "sha256": "a414497225185b0a0138fe87e47b8ab1598719b5842f523d07c750fa696e6275",
+      "duration": 19.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "71573c85f6fb662296f2109162c8c5c54b1c0ca3826d96e0d21f7d26fcc9dda7",
+      "priority": "daily-stable"
+    },
+    "through my fault, through my fault, through my most grievous fault. therefore i ask blessed mary ever-virgin, all the angels and saints, and you, my brothers and sisters, to pray for me to the lord our god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/fff8b79a497864bbf6a0b897.opus",
+      "sha256": "892f7cb8fbe029d92258567bdbaeb8fdbdc378fac476d58b46fd63969bca1605",
+      "duration": 16.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "fff8b79a497864bbf6a0b8979d79ee8300d584b581b4946992c2615348a02f56",
+      "priority": "daily-stable"
+    },
+    "through the prayers of the theotokos, o saviour, save us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c744fa9d0a12961571547f89.opus",
+      "sha256": "37c5e103d7e4dd959b927055aa9cc79254e243e254e6164afb07c50902a216ef",
+      "duration": 4.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c744fa9d0a12961571547f891dd13765a69eb9f5e83db1fd0bde9f2ab1f465c2",
+      "priority": "daily-stable"
+    },
+    "through the same christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/83a282c9e44bdc8d5d0bc4b1.opus",
+      "sha256": "d22757fe42a676083c2ba812e22336eb128a39c33608e42151a94057efe9decf",
+      "duration": 2.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "83a282c9e44bdc8d5d0bc4b177405157330f4a4e04f7096005455eb3c1ca9689",
+      "priority": "daily-stable"
+    },
+    "through the same jesus christ your son our lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/55a97d784115cf928e409868.opus",
+      "sha256": "881dc46982ca868cd57e2bc9269abde2fc4011c5c408512967ae502e91712e7b",
+      "duration": 2.2465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "55a97d784115cf928e409868072cc6ceb764e2d8dd2281c46eff6a17652c1c33",
+      "priority": "daily-stable"
+    },
+    "throughout the whole world the holy church confesses you: the father of immeasurable majesty; your true and only son, worthy of all worship; and the holy spirit,; the advocate and giver of life. you are the king of glory, o christ;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/03054a1dd7fc1ab8e75792cd.opus",
+      "sha256": "0cd4f299fa8e7b6b30c649749a73aeee2a09ac158edf181227332e18ded2eb1c",
+      "duration": 18.0865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "03054a1dd7fc1ab8e75792cd2ab4aee920b42859a2653a618e1491cca6e3818f",
+      "priority": "daily-stable"
+    },
+    "to god who gives joy to my youth.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/c8a8d70c9862f75b047743bc.opus",
+      "sha256": "062f3c950363f969afa1f046dba39c5d2d4af5f698d66c85a8e5c89cfad33ef7",
+      "duration": 2.4065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "c8a8d70c9862f75b047743bc20cf41bfda7ea83e02e894d8617182df34f80046",
+      "priority": "daily-stable"
+    },
+    "to us also, your servants who hope in the multitude of your mercies, grant some share and fellowship with your holy apostles and martyrs and with all your saints. admit us, we pray, into their company, not weighing our merits but granting pardon through christ our lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/91472fef237bdbbc67a2b053.opus",
+      "sha256": "e6eb24395a63efdabb25c323f122a230d45f4bf2dc79b4e009f7e30c26bc2389",
+      "duration": 16.8065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "91472fef237bdbbc67a2b053a0ee192e9bc263d16878b354b052762b62b703f8",
+      "priority": "daily-stable"
+    },
+    "to you, o god, we give praise; you we acknowledge as lord. to you, eternal father,; all the earth gives worship. to you all angels,; to you the heavens and all the powers; to you cherubim and seraphim; cry without ceasing:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/02a25e661a8a322606182f4e.opus",
+      "sha256": "1d477ca49f1212c84b8b63c9833fa90436ffaceb1423972119335b5b089ac706",
+      "duration": 18.2065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "02a25e661a8a322606182f4e2d7555f27746c8c0ad2a47aacab576a4eadfc70d",
+      "priority": "daily-stable"
+    },
+    "to you, o lord.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3b8c35d52a0a405fe0b66304.opus",
+      "sha256": "48a9a9ae33d0d9771ca935a5df75e72aee871791fe28f042d996a3652359d9bd",
+      "duration": 1.3665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3b8c35d52a0a405fe0b66304309cc996fcd94895c4f90c379eb0907f597b8934",
+      "priority": "daily-stable"
+    },
+    "visit this place, o lord, and drive far from it every fear and all that would disturb the peace of your people. let your holy angels dwell with us to guard us in peace, and let your blessing remain upon us always; through jesus christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f1abcef3ea6e506cac02911a.opus",
+      "sha256": "1fe2467701ce6d48fea7b2906a8c66ed1e99938d16024cb3eed46fa6a3312ea4",
+      "duration": 16.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f1abcef3ea6e506cac02911a24b3f4b4fe921450454cc1adb1966f80b36ad199",
+      "priority": "daily-stable"
+    },
+    "we have not loved our neighbours as ourselves. heal what is wounded, forgive what is sinful, strengthen what is weak, and lead us in the way of life; through jesus christ our lord. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/119108320b22efe2952f03c6.opus",
+      "sha256": "f452963bdd6a4428593c4d891cb1c65f677faaa9ed6cc978f4381aeeb5603d66",
+      "duration": 12.7665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "119108320b22efe2952f03c646a8e6a68eebb0689c6288f42e13da69eaf38ed8",
+      "priority": "daily-stable"
+    },
+    "we offer to you, o lord, the chalice of salvation, beseeching your mercy that it may rise before your divine majesty with a pleasing fragrance, for our salvation and for that of the whole world. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/08a34a3600589a9aa27a2bd7.opus",
+      "sha256": "706c9776beeaddedbabe134930709904479425e4776789f319c1e16e27c7592b",
+      "duration": 14.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "08a34a3600589a9aa27a2bd73e4cb9d50a67050e630f9401752e6b847117024d",
+      "priority": "daily-stable"
+    },
+    "we offer you the sacrifice of praise, the gifts you have given, and our own lives, not as possessions of our own but as creatures restored by grace. unite the church in truth and charity; preserve us from domination, contempt, and fear;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/91ec9473c504a2a0ca490486.opus",
+      "sha256": "37a0de9a2a603ba687420acc6c7a8dcacc3f23d967ab71791a7a6f0889dbc04d",
+      "duration": 19.2865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "91ec9473c504a2a0ca4904860e1edea3b1f527303bb49ee5232d8617ae50c3ba",
+      "priority": "daily-stable"
+    },
+    "we praise you, we bless you, we give thanks to you, o lord, and we pray to you, our god.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b91f37ebc108c15f09705fa8.opus",
+      "sha256": "4a080ce062ee20bf332cb8d92d6579851d4537ccf2c132626d0e13cad7d4a680",
+      "duration": 7.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b91f37ebc108c15f09705fa87be7b57789f984e2145d3003f1351221f5a10e2d",
+      "priority": "daily-stable"
+    },
+    "we pray you, o lord, by the merits of your saints whose relics are here, and of all the saints, that you would graciously forgive all our sins. amen.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/d530b65019350c5c9ebf4a77.opus",
+      "sha256": "d1609bfab5a734c6a8dd27f9e8ab61332b0decf4e774a64d0fc3ba7f3674d548",
+      "duration": 9.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "d530b65019350c5c9ebf4a77fb9f2aa4ce037d55621054a6082c66bb33b4041d",
+      "priority": "daily-stable"
+    },
+    "we proclaim your death, o lord, and profess your resurrection until you come again.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/7f125c3d8273fa558d634c16.opus",
+      "sha256": "d836e784bf22774434d8e1bdeca5d1348805d437ec7c6e91c98dfbe8932eb3a3",
+      "duration": 5.3265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "7f125c3d8273fa558d634c1665169de2c426195747147e20e441e0abd128e990",
+      "priority": "daily-stable"
+    },
+    "we thank you also for this liturgy which you have been pleased to receive from our hands, though thousands of archangels and tens of thousands of angels stand before you, the cherubim and seraphim, six-winged, many-eyed, soaring upon their wings:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/48e4c0b5a5bb0cc6aa97d79b.opus",
+      "sha256": "29c72a7916d795e406b22d76f10301d84524fcaf0c689adedeed1f8feeadb7b7",
+      "duration": 14.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "48e4c0b5a5bb0cc6aa97d79b3cb6976450cc6db774a59eb1a45b45eca4eb4d4a",
+      "priority": "daily-stable"
+    },
+    "who for us and for our salvation came down from heaven, and was incarnate of the holy spirit and the virgin mary, and became human. he was crucified for us under pontius pilate, suffered and was buried;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2f3b8fc49e15a259018b1a7d.opus",
+      "sha256": "e7f58760390c71f1c22e56e4d2767cfd1a2ef8cd574ab8bd2521f62072cdd073",
+      "duration": 13.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2f3b8fc49e15a259018b1a7dba21707d4a11861459859253700b7ae9fb64d7bb",
+      "priority": "daily-stable"
+    },
+    "who have been from of old; salvation from our enemies; and from the hand of all who hate us; to show mercy to our fathers; and to remember his holy covenant; the oath which he swore to abraham our father,;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9fe25241eefcfd526ea570c5.opus",
+      "sha256": "c7e4a5b42e13a56daca142269d1b31a2e3b612de5c38264a5be1388d49d0fb20",
+      "duration": 15.1665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9fe25241eefcfd526ea570c517a136deaa866e8f3aa49caaf6680d622b9510f6",
+      "priority": "daily-stable"
+    },
+    "wisdom.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/b17e53345e751c3ffe5edff4.opus",
+      "sha256": "982d4870f28e2c80c05441494e3bc817a78fe8e32955283a4df571febd534e7b",
+      "duration": 0.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "b17e53345e751c3ffe5edff4c04ad71efc6046da681e7d4859b59a7635407cab",
+      "priority": "daily-stable"
+    },
+    "wisdom. stand aright.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9680d8845095f6c945af02b4.opus",
+      "sha256": "80948dd74f4dd709ce1fbf375b42ade2183cc47631ba3264a01c90fd657fb6c3",
+      "duration": 1.7265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9680d8845095f6c945af02b4ca598c6941f992ead8fc0bffbb33bea6392d22f7",
+      "priority": "daily-stable"
+    },
+    "wisdom. stand aright. let us hear the holy gospel.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/cd544d9f210b251922580bd1.opus",
+      "sha256": "0c9f760a8041e6f8d41bf3a93442b75498180ccc3c7c302635172229a6d971c7",
+      "duration": 3.5665,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "cd544d9f210b251922580bd141e7f57343795d07932adb430726fe72b188687a",
+      "priority": "daily-stable"
+    },
+    "with the blessed virgin mary, the apostles, martyrs, and all your saints, bring us to the banquet of the kingdom and the renewal of creation.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2b192c5c093555f657707fd4.opus",
+      "sha256": "2db65a41fbd73b2bbe1e88ad9cd4e6dfab52b5e76fd7a0847df02568071b108d",
+      "duration": 8.4465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2b192c5c093555f657707fd43478956140468b1358a3e333050395fe53087390",
+      "priority": "daily-stable"
+    },
+    "with the fear of god, with faith and love, draw near.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/3913a9a476ac5b8042f44608.opus",
+      "sha256": "d9e31e283d9906d1c835b15128ca77023ab3bf502c24dc42988e6f08bd931bf0",
+      "duration": 4.5265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "3913a9a476ac5b8042f44608eceeda0b68b55443074914d2222a81bba95c51a8",
+      "priority": "daily-stable"
+    },
+    "you are one of the holy trinity, glorified with the father and the holy spirit: save us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/9fea68ee985a592559671d4e.opus",
+      "sha256": "49be198ef7d9cabd7cd38309cbe05bc4c5f6a6f2dc5bdc53559bced74fc1fb73",
+      "duration": 6.1265,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "9fea68ee985a592559671d4edc8d55138fe2973dc00f47a8b2c8108360995543",
+      "priority": "daily-stable"
+    },
+    "you are seated at the right hand of the father: have mercy on us.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/51a95e6babb814424793dd1b.opus",
+      "sha256": "b6528f0f116fa22b48f935aed92390a6d7e98a36808a8b3f6e6f9a868204e41c",
+      "duration": 4.0465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "51a95e6babb814424793dd1b18380ae9336af0af93dd8a6b6d606cee189a5e19",
+      "priority": "daily-stable"
+    },
+    "you are the everlasting son of the father. when you took our nature upon you for our deliverance,; you did not shrink from the virgin's womb. when you had overcome the sting of death,;": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/213aad8d0eb351fa4eca2503.opus",
+      "sha256": "ffb998f99c7a3c149c501d6181e103a214b5922f1b5f7168e4bc5de91cff6ad2",
+      "duration": 11.0065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "213aad8d0eb351fa4eca2503f9d53b14635e4b2445315ed9e1cd87bacec3f04b",
+      "priority": "daily-stable"
+    },
+    "you brought us from nothing into being; and when we had fallen, you raised us up again, and did not cease doing all things until you had brought us to heaven and granted us your kingdom which is to come.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/399bd2bc9c9f264d43531632.opus",
+      "sha256": "779b82b0d4c3b1d0c43481f2a3f4af03667f15b8aac51c0648752a2e62e6d1f7",
+      "duration": 12.6465,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "399bd2bc9c9f264d435316327bc25b77bf353601e474f8fca1996261c6e6b556",
+      "priority": "daily-stable"
+    },
+    "you created all things in love, called a people into covenant, and in the fullness of time sent your eternal word to take our nature, heal what sin had wounded, and overcome death from within.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/f728493e60c163b1fadd50b1.opus",
+      "sha256": "0a61f1885011a33815310b6cc9f5dbb476a40959259355099bc707e73f572622",
+      "duration": 11.8865,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "f728493e60c163b1fadd50b122f0fdee243de0de6e948953d9a4f8da7b85fccd",
+      "priority": "daily-stable"
+    },
+    "you opened the kingdom of heaven to the faithful. you sit at the right hand of god; in the glory of the father. we believe that you will come; to be our judge. therefore we pray:": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/43f7fae1fb5832b3108cdf35.opus",
+      "sha256": "20d8a9ff51ca8df2b04c00767150b434989b2082109a546ff3b7a4a61d49d6f0",
+      "duration": 13.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "43f7fae1fb5832b3108cdf353e0c33b3c9d9a0afe0b23de2c1637b4237c2dff6",
+      "priority": "daily-stable"
+    },
+    "your word is a lamp to my feet.": {
+      "file": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/clips/2717de7cdb29888131047cc3.opus",
+      "sha256": "4478ea86f6f8c4475df4f803443d31d9670ad03bc514f38b658c1cde47b19583",
+      "duration": 2.6065,
+      "sample_rate": 24000,
+      "format": "opus",
+      "text_sha256": "2717de7cdb29888131047cc30413cb28743530a4433c4e452f6a48951f6b1d82",
+      "priority": "daily-stable"
     }
   },
   "distribution": {
     "type": "github-pages",
     "baseUrl": "https://jahodges1809.github.io/pcc-prayer-voice-assets/jordan-v1/",
-    "generatedAt": "2026-09-04T09:40:25.497Z"
+    "generatedAt": "2026-09-04T13:26:58.007Z"
   }
 }
